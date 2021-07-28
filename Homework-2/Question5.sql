@@ -5,7 +5,6 @@ select case
        || ' '
        || lpad(regexp_substr(customername, '[^ ]+' ,1,2),2) 
        || regexp_replace((substr(regexp_substr(customername, '[^ ]+' ,1,2),3,length(regexp_substr(customername, '[^ ]+' ,1,2)))) ,'.','*' )
-       || ' ' 
     else lpad(regexp_substr(customername, '[^ ]+' ,1,1),2) 
        || regexp_replace((substr(regexp_substr(customername, '[^ ]+' ,1,1),3,length(regexp_substr(customername, '[^ ]+' ,1,1)))) ,'.','*' )
        || ' ' 
