@@ -13,5 +13,5 @@ select case
        || ' ' ||
        lpad(regexp_substr(customername, '[^ ]+' ,1,3),2) 
        || regexp_replace((substr(regexp_substr(customername, '[^ ]+' ,1,3),3,length(regexp_substr(customername, '[^ ]+' ,1,3)))) ,'.','*' )
-    end as customername from HR.name
+    end as customername from HR.name 
     
