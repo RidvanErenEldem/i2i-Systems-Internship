@@ -1,0 +1,13 @@
+org\tempuri\CalculatorSoap.class
+org\tempuri\MultiplyResponse.class
+org\tempuri\package-info.class
+org\tempuri\ObjectFactory.class
+org\tempuri\SubtractResponse.class
+org\tempuri\DivideResponse.class
+org\tempuri\Multiply.class
+org\tempuri\AddResponse.class
+org\tempuri\Divide.class
+org\tempuri\Subtract.class
+org\tempuri\Calculator.class
+main\Index.class
+org\tempuri\Add.class

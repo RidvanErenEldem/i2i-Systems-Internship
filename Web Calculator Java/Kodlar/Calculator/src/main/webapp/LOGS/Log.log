@@ -1,0 +1,860 @@
+INFO    2021-08-01 15:53:40,590 [main] Appender3  - TEST RUN
+DEBUG   2021-08-01 15:53:40,602 [main] Appender3  - Olmasý gereken Sayý1 = 5112 Sayý2 = 1447 Toplam = 6559 Çýkarma = 3665 Çarpma = 7397064 Bölme = 3
+DEBUG   2021-08-01 15:53:41,396 [main] Appender3  - 6559
+DEBUG   2021-08-01 15:53:41,820 [main] Appender3  - 3665
+DEBUG   2021-08-01 15:53:42,256 [main] Appender3  - 7397064
+DEBUG   2021-08-01 15:53:42,678 [main] Appender3  - 4
+DEBUG   2021-08-01 15:53:42,679 [main] Appender3  - Olmasý gereken Sayý1 = 6899 Sayý2 = 5388 Toplam = 12287 Çýkarma = 1511 Çarpma = 37171812 Bölme = 1
+DEBUG   2021-08-01 15:53:43,104 [main] Appender3  - 12287
+DEBUG   2021-08-01 15:53:43,533 [main] Appender3  - 1511
+DEBUG   2021-08-01 15:53:43,940 [main] Appender3  - 37171812
+DEBUG   2021-08-01 15:53:44,384 [main] Appender3  - 1
+DEBUG   2021-08-01 15:53:44,385 [main] Appender3  - Olmasý gereken Sayý1 = 2626 Sayý2 = 3694 Toplam = 6320 Çýkarma = -1068 Çarpma = 9700444 Bölme = 0
+DEBUG   2021-08-01 15:53:44,798 [main] Appender3  - 6320
+DEBUG   2021-08-01 15:53:45,217 [main] Appender3  - -1068
+DEBUG   2021-08-01 15:53:45,627 [main] Appender3  - 9700444
+DEBUG   2021-08-01 15:53:46,026 [main] Appender3  - 1
+DEBUG   2021-08-01 15:53:46,026 [main] Appender3  - Olmasý gereken Sayý1 = 7355 Sayý2 = 1089 Toplam = 8444 Çýkarma = 6266 Çarpma = 8009595 Bölme = 6
+DEBUG   2021-08-01 15:53:46,429 [main] Appender3  - 8444
+DEBUG   2021-08-01 15:53:46,831 [main] Appender3  - 6266
+DEBUG   2021-08-01 15:53:47,267 [main] Appender3  - 8009595
+DEBUG   2021-08-01 15:53:47,670 [main] Appender3  - 7
+DEBUG   2021-08-01 15:53:47,670 [main] Appender3  - Olmasý gereken Sayý1 = 4759 Sayý2 = 9588 Toplam = 14347 Çýkarma = -4829 Çarpma = 45629292 Bölme = 0
+DEBUG   2021-08-01 15:53:48,058 [main] Appender3  - 14347
+DEBUG   2021-08-01 15:53:48,455 [main] Appender3  - -4829
+DEBUG   2021-08-01 15:53:48,893 [main] Appender3  - 45629292
+DEBUG   2021-08-01 15:53:49,297 [main] Appender3  - 2
+DEBUG   2021-08-01 15:53:49,297 [main] Appender3  - Olmasý gereken Sayý1 = 1812 Sayý2 = 4539 Toplam = 6351 Çýkarma = -2727 Çarpma = 8224668 Bölme = 0
+DEBUG   2021-08-01 15:53:49,684 [main] Appender3  - 6351
+DEBUG   2021-08-01 15:53:50,099 [main] Appender3  - -2727
+DEBUG   2021-08-01 15:53:50,503 [main] Appender3  - 8224668
+DEBUG   2021-08-01 15:53:50,900 [main] Appender3  - 3
+DEBUG   2021-08-01 15:53:50,900 [main] Appender3  - Olmasý gereken Sayý1 = 5514 Sayý2 = 588 Toplam = 6102 Çýkarma = 4926 Çarpma = 3242232 Bölme = 9
+DEBUG   2021-08-01 15:53:51,300 [main] Appender3  - 6102
+DEBUG   2021-08-01 15:53:51,686 [main] Appender3  - 4926
+DEBUG   2021-08-01 15:53:52,088 [main] Appender3  - 3242232
+DEBUG   2021-08-01 15:53:52,473 [main] Appender3  - 9
+DEBUG   2021-08-01 15:53:52,473 [main] Appender3  - Olmasý gereken Sayý1 = 4695 Sayý2 = 7831 Toplam = 12526 Çýkarma = -3136 Çarpma = 36766545 Bölme = 0
+DEBUG   2021-08-01 15:53:52,886 [main] Appender3  - 12526
+DEBUG   2021-08-01 15:53:53,308 [main] Appender3  - -3136
+DEBUG   2021-08-01 15:53:53,711 [main] Appender3  - 36766545
+DEBUG   2021-08-01 15:53:54,111 [main] Appender3  - 2
+DEBUG   2021-08-01 15:53:54,112 [main] Appender3  - Olmasý gereken Sayý1 = 9821 Sayý2 = 4232 Toplam = 14053 Çýkarma = 5589 Çarpma = 41562472 Bölme = 2
+DEBUG   2021-08-01 15:53:54,521 [main] Appender3  - 14053
+DEBUG   2021-08-01 15:53:54,934 [main] Appender3  - 5589
+DEBUG   2021-08-01 15:53:55,352 [main] Appender3  - 41562472
+DEBUG   2021-08-01 15:53:55,756 [main] Appender3  - 2
+DEBUG   2021-08-01 15:53:55,756 [main] Appender3  - Olmasý gereken Sayý1 = 4313 Sayý2 = 6160 Toplam = 10473 Çýkarma = -1847 Çarpma = 26568080 Bölme = 0
+DEBUG   2021-08-01 15:53:56,162 [main] Appender3  - 10473
+DEBUG   2021-08-01 15:53:56,567 [main] Appender3  - -1847
+DEBUG   2021-08-01 15:53:56,982 [main] Appender3  - 26568080
+DEBUG   2021-08-01 15:53:57,384 [main] Appender3  - 1
+DEBUG   2021-08-01 15:53:57,384 [main] Appender3  - Olmasý gereken Sayý1 = 836 Sayý2 = 9068 Toplam = 9904 Çýkarma = -8232 Çarpma = 7580848 Bölme = 0
+DEBUG   2021-08-01 15:53:57,781 [main] Appender3  - 9904
+DEBUG   2021-08-01 15:53:58,178 [main] Appender3  - -8232
+DEBUG   2021-08-01 15:53:58,580 [main] Appender3  - 7580848
+DEBUG   2021-08-01 15:53:59,008 [main] Appender3  - 11
+DEBUG   2021-08-01 15:53:59,008 [main] Appender3  - Olmasý gereken Sayý1 = 8731 Sayý2 = 2919 Toplam = 11650 Çýkarma = 5812 Çarpma = 25485789 Bölme = 2
+DEBUG   2021-08-01 15:53:59,425 [main] Appender3  - 11650
+DEBUG   2021-08-01 15:53:59,836 [main] Appender3  - 5812
+DEBUG   2021-08-01 15:54:00,225 [main] Appender3  - 25485789
+DEBUG   2021-08-01 15:54:00,638 [main] Appender3  - 3
+DEBUG   2021-08-01 15:54:00,638 [main] Appender3  - Olmasý gereken Sayý1 = 658 Sayý2 = 8033 Toplam = 8691 Çýkarma = -7375 Çarpma = 5285714 Bölme = 0
+DEBUG   2021-08-01 15:54:01,025 [main] Appender3  - 8691
+DEBUG   2021-08-01 15:54:01,426 [main] Appender3  - -7375
+DEBUG   2021-08-01 15:54:01,849 [main] Appender3  - 5285714
+DEBUG   2021-08-01 15:54:02,239 [main] Appender3  - 12
+DEBUG   2021-08-01 15:54:02,239 [main] Appender3  - Olmasý gereken Sayý1 = 8908 Sayý2 = 6172 Toplam = 15080 Çýkarma = 2736 Çarpma = 54980176 Bölme = 1
+DEBUG   2021-08-01 15:54:02,628 [main] Appender3  - 15080
+DEBUG   2021-08-01 15:54:03,017 [main] Appender3  - 2736
+DEBUG   2021-08-01 15:54:03,424 [main] Appender3  - 54980176
+DEBUG   2021-08-01 15:54:03,811 [main] Appender3  - 1
+DEBUG   2021-08-01 15:54:03,811 [main] Appender3  - Olmasý gereken Sayý1 = 9617 Sayý2 = 5090 Toplam = 14707 Çýkarma = 4527 Çarpma = 48950530 Bölme = 1
+DEBUG   2021-08-01 15:54:04,203 [main] Appender3  - 14707
+DEBUG   2021-08-01 15:54:04,608 [main] Appender3  - 4527
+DEBUG   2021-08-01 15:54:05,003 [main] Appender3  - 48950530
+DEBUG   2021-08-01 15:54:05,393 [main] Appender3  - 2
+DEBUG   2021-08-01 15:54:05,393 [main] Appender3  - Olmasý gereken Sayý1 = 4287 Sayý2 = 3451 Toplam = 7738 Çýkarma = 836 Çarpma = 14794437 Bölme = 1
+DEBUG   2021-08-01 15:54:05,780 [main] Appender3  - 7738
+DEBUG   2021-08-01 15:54:06,188 [main] Appender3  - 836
+DEBUG   2021-08-01 15:54:06,588 [main] Appender3  - 14794437
+DEBUG   2021-08-01 15:54:06,990 [main] Appender3  - 1
+DEBUG   2021-08-01 15:54:06,990 [main] Appender3  - Olmasý gereken Sayý1 = 4349 Sayý2 = 2774 Toplam = 7123 Çýkarma = 1575 Çarpma = 12064126 Bölme = 1
+DEBUG   2021-08-01 15:54:07,407 [main] Appender3  - 7123
+DEBUG   2021-08-01 15:54:07,818 [main] Appender3  - 1575
+DEBUG   2021-08-01 15:54:08,232 [main] Appender3  - 12064126
+DEBUG   2021-08-01 15:54:08,638 [main] Appender3  - 2
+DEBUG   2021-08-01 15:54:08,638 [main] Appender3  - Olmasý gereken Sayý1 = 7687 Sayý2 = 8373 Toplam = 16060 Çýkarma = -686 Çarpma = 64363251 Bölme = 0
+DEBUG   2021-08-01 15:54:09,062 [main] Appender3  - 16060
+DEBUG   2021-08-01 15:54:09,474 [main] Appender3  - -686
+DEBUG   2021-08-01 15:54:09,892 [main] Appender3  - 64363251
+DEBUG   2021-08-01 15:54:10,303 [main] Appender3  - 1
+DEBUG   2021-08-01 15:54:10,303 [main] Appender3  - Olmasý gereken Sayý1 = 9599 Sayý2 = 6282 Toplam = 15881 Çýkarma = 3317 Çarpma = 60300918 Bölme = 1
+DEBUG   2021-08-01 15:54:10,727 [main] Appender3  - 15881
+DEBUG   2021-08-01 15:54:11,132 [main] Appender3  - 3317
+DEBUG   2021-08-01 15:54:11,542 [main] Appender3  - 60300918
+DEBUG   2021-08-01 15:54:11,940 [main] Appender3  - 2
+DEBUG   2021-08-01 15:54:11,941 [main] Appender3  - Olmasý gereken Sayý1 = 9950 Sayý2 = 7194 Toplam = 17144 Çýkarma = 2756 Çarpma = 71580300 Bölme = 1
+DEBUG   2021-08-01 15:54:12,351 [main] Appender3  - 17144
+DEBUG   2021-08-01 15:54:12,789 [main] Appender3  - 2756
+DEBUG   2021-08-01 15:54:13,192 [main] Appender3  - 71580300
+DEBUG   2021-08-01 15:54:13,602 [main] Appender3  - 1
+DEBUG   2021-08-01 15:54:13,604 [main] Appender3  - Olmasý gereken Sayý1 = 3208 Sayý2 = 6282 Toplam = 9490 Çýkarma = -3074 Çarpma = 20152656 Bölme = 0
+DEBUG   2021-08-01 15:54:13,993 [main] Appender3  - 9490
+DEBUG   2021-08-01 15:54:14,391 [main] Appender3  - -3074
+DEBUG   2021-08-01 15:54:14,780 [main] Appender3  - 20152656
+DEBUG   2021-08-01 15:54:15,186 [main] Appender3  - 2
+DEBUG   2021-08-01 15:54:15,186 [main] Appender3  - Olmasý gereken Sayý1 = 7413 Sayý2 = 7600 Toplam = 15013 Çýkarma = -187 Çarpma = 56338800 Bölme = 0
+DEBUG   2021-08-01 15:54:15,590 [main] Appender3  - 15013
+DEBUG   2021-08-01 15:54:16,030 [main] Appender3  - -187
+DEBUG   2021-08-01 15:54:16,429 [main] Appender3  - 56338800
+DEBUG   2021-08-01 15:54:16,817 [main] Appender3  - 1
+DEBUG   2021-08-01 15:54:16,817 [main] Appender3  - Olmasý gereken Sayý1 = 4003 Sayý2 = 8460 Toplam = 12463 Çýkarma = -4457 Çarpma = 33865380 Bölme = 0
+DEBUG   2021-08-01 15:54:17,220 [main] Appender3  - 12463
+DEBUG   2021-08-01 15:54:17,627 [main] Appender3  - -4457
+DEBUG   2021-08-01 15:54:18,022 [main] Appender3  - 33865380
+DEBUG   2021-08-01 15:54:18,420 [main] Appender3  - 2
+DEBUG   2021-08-01 15:54:18,420 [main] Appender3  - Olmasý gereken Sayý1 = 2150 Sayý2 = 8915 Toplam = 11065 Çýkarma = -6765 Çarpma = 19167250 Bölme = 0
+DEBUG   2021-08-01 15:54:18,820 [main] Appender3  - 11065
+DEBUG   2021-08-01 15:54:19,213 [main] Appender3  - -6765
+DEBUG   2021-08-01 15:54:19,625 [main] Appender3  - 19167250
+DEBUG   2021-08-01 15:54:20,024 [main] Appender3  - 4
+DEBUG   2021-08-01 15:54:20,024 [main] Appender3  - Olmasý gereken Sayý1 = 989 Sayý2 = 6826 Toplam = 7815 Çýkarma = -5837 Çarpma = 6750914 Bölme = 0
+DEBUG   2021-08-01 15:54:20,423 [main] Appender3  - 7815
+DEBUG   2021-08-01 15:54:20,826 [main] Appender3  - -5837
+DEBUG   2021-08-01 15:54:21,240 [main] Appender3  - 6750914
+DEBUG   2021-08-01 15:54:21,677 [main] Appender3  - 7
+DEBUG   2021-08-01 15:54:21,678 [main] Appender3  - Olmasý gereken Sayý1 = 3669 Sayý2 = 8297 Toplam = 11966 Çýkarma = -4628 Çarpma = 30441693 Bölme = 0
+DEBUG   2021-08-01 15:54:22,081 [main] Appender3  - 11966
+DEBUG   2021-08-01 15:54:22,485 [main] Appender3  - -4628
+DEBUG   2021-08-01 15:54:22,898 [main] Appender3  - 30441693
+DEBUG   2021-08-01 15:54:23,308 [main] Appender3  - 2
+DEBUG   2021-08-01 15:54:23,308 [main] Appender3  - Olmasý gereken Sayý1 = 3184 Sayý2 = 1770 Toplam = 4954 Çýkarma = 1414 Çarpma = 5635680 Bölme = 1
+DEBUG   2021-08-01 15:54:23,713 [main] Appender3  - 4954
+DEBUG   2021-08-01 15:54:24,110 [main] Appender3  - 1414
+DEBUG   2021-08-01 15:54:24,585 [main] Appender3  - 5635680
+DEBUG   2021-08-01 15:54:24,986 [main] Appender3  - 2
+DEBUG   2021-08-01 15:54:24,986 [main] Appender3  - Olmasý gereken Sayý1 = 8949 Sayý2 = 3233 Toplam = 12182 Çýkarma = 5716 Çarpma = 28932117 Bölme = 2
+DEBUG   2021-08-01 15:54:25,390 [main] Appender3  - 12182
+DEBUG   2021-08-01 15:54:25,809 [main] Appender3  - 5716
+DEBUG   2021-08-01 15:54:26,227 [main] Appender3  - 28932117
+DEBUG   2021-08-01 15:54:26,619 [main] Appender3  - 3
+DEBUG   2021-08-01 15:54:26,620 [main] Appender3  - Olmasý gereken Sayý1 = 7099 Sayý2 = 2539 Toplam = 9638 Çýkarma = 4560 Çarpma = 18024361 Bölme = 2
+DEBUG   2021-08-01 15:54:27,025 [main] Appender3  - 9638
+DEBUG   2021-08-01 15:54:27,429 [main] Appender3  - 4560
+DEBUG   2021-08-01 15:54:27,940 [main] Appender3  - 18024361
+DEBUG   2021-08-01 15:54:28,338 [main] Appender3  - 3
+DEBUG   2021-08-01 15:54:28,339 [main] Appender3  - Olmasý gereken Sayý1 = 6119 Sayý2 = 1527 Toplam = 7646 Çýkarma = 4592 Çarpma = 9343713 Bölme = 4
+DEBUG   2021-08-01 15:54:28,842 [main] Appender3  - 7646
+DEBUG   2021-08-01 15:54:29,241 [main] Appender3  - 4592
+DEBUG   2021-08-01 15:54:29,637 [main] Appender3  - 9343713
+DEBUG   2021-08-01 15:54:30,034 [main] Appender3  - 4
+DEBUG   2021-08-01 15:54:30,034 [main] Appender3  - Olmasý gereken Sayý1 = 3517 Sayý2 = 4446 Toplam = 7963 Çýkarma = -929 Çarpma = 15636582 Bölme = 0
+DEBUG   2021-08-01 15:54:30,428 [main] Appender3  - 7963
+DEBUG   2021-08-01 15:54:30,838 [main] Appender3  - -929
+DEBUG   2021-08-01 15:54:31,245 [main] Appender3  - 15636582
+DEBUG   2021-08-01 15:54:31,653 [main] Appender3  - 1
+DEBUG   2021-08-01 15:54:31,653 [main] Appender3  - Olmasý gereken Sayý1 = 5436 Sayý2 = 6902 Toplam = 12338 Çýkarma = -1466 Çarpma = 37519272 Bölme = 0
+DEBUG   2021-08-01 15:54:32,050 [main] Appender3  - 12338
+DEBUG   2021-08-01 15:54:32,452 [main] Appender3  - -1466
+DEBUG   2021-08-01 15:54:32,870 [main] Appender3  - 37519272
+DEBUG   2021-08-01 15:54:33,292 [main] Appender3  - 1
+DEBUG   2021-08-01 15:54:33,292 [main] Appender3  - Olmasý gereken Sayý1 = 5872 Sayý2 = 1295 Toplam = 7167 Çýkarma = 4577 Çarpma = 7604240 Bölme = 4
+DEBUG   2021-08-01 15:54:33,702 [main] Appender3  - 7167
+DEBUG   2021-08-01 15:54:34,110 [main] Appender3  - 4577
+DEBUG   2021-08-01 15:54:34,515 [main] Appender3  - 7604240
+DEBUG   2021-08-01 15:54:34,904 [main] Appender3  - 5
+DEBUG   2021-08-01 15:54:34,904 [main] Appender3  - Olmasý gereken Sayý1 = 1452 Sayý2 = 9227 Toplam = 10679 Çýkarma = -7775 Çarpma = 13397604 Bölme = 0
+DEBUG   2021-08-01 15:54:35,305 [main] Appender3  - 10679
+DEBUG   2021-08-01 15:54:35,703 [main] Appender3  - -7775
+DEBUG   2021-08-01 15:54:36,106 [main] Appender3  - 13397604
+DEBUG   2021-08-01 15:54:36,507 [main] Appender3  - 6
+DEBUG   2021-08-01 15:54:36,507 [main] Appender3  - Olmasý gereken Sayý1 = 4163 Sayý2 = 5486 Toplam = 9649 Çýkarma = -1323 Çarpma = 22838218 Bölme = 0
+DEBUG   2021-08-01 15:54:36,911 [main] Appender3  - 9649
+DEBUG   2021-08-01 15:54:37,310 [main] Appender3  - -1323
+DEBUG   2021-08-01 15:54:37,696 [main] Appender3  - 22838218
+DEBUG   2021-08-01 15:54:38,093 [main] Appender3  - 1
+DEBUG   2021-08-01 15:54:38,093 [main] Appender3  - Olmasý gereken Sayý1 = 4992 Sayý2 = 2785 Toplam = 7777 Çýkarma = 2207 Çarpma = 13902720 Bölme = 1
+DEBUG   2021-08-01 15:54:38,499 [main] Appender3  - 7777
+DEBUG   2021-08-01 15:54:38,897 [main] Appender3  - 2207
+DEBUG   2021-08-01 15:54:39,307 [main] Appender3  - 13902720
+DEBUG   2021-08-01 15:54:39,732 [main] Appender3  - 2
+DEBUG   2021-08-01 15:54:39,732 [main] Appender3  - Olmasý gereken Sayý1 = 1664 Sayý2 = 4078 Toplam = 5742 Çýkarma = -2414 Çarpma = 6785792 Bölme = 0
+DEBUG   2021-08-01 15:54:40,144 [main] Appender3  - 5742
+DEBUG   2021-08-01 15:54:40,538 [main] Appender3  - -2414
+DEBUG   2021-08-01 15:54:40,933 [main] Appender3  - 6785792
+DEBUG   2021-08-01 15:54:41,344 [main] Appender3  - 2
+DEBUG   2021-08-01 15:54:41,345 [main] Appender3  - Olmasý gereken Sayý1 = 1913 Sayý2 = 479 Toplam = 2392 Çýkarma = 1434 Çarpma = 916327 Bölme = 3
+DEBUG   2021-08-01 15:54:41,744 [main] Appender3  - 2392
+DEBUG   2021-08-01 15:54:42,151 [main] Appender3  - 1434
+DEBUG   2021-08-01 15:54:42,553 [main] Appender3  - 916327
+DEBUG   2021-08-01 15:54:42,958 [main] Appender3  - 4
+DEBUG   2021-08-01 15:54:42,959 [main] Appender3  - Olmasý gereken Sayý1 = 5516 Sayý2 = 2074 Toplam = 7590 Çýkarma = 3442 Çarpma = 11440184 Bölme = 2
+DEBUG   2021-08-01 15:54:43,364 [main] Appender3  - 7590
+DEBUG   2021-08-01 15:54:43,792 [main] Appender3  - 3442
+DEBUG   2021-08-01 15:54:44,207 [main] Appender3  - 11440184
+DEBUG   2021-08-01 15:54:44,605 [main] Appender3  - 3
+DEBUG   2021-08-01 15:54:44,605 [main] Appender3  - Olmasý gereken Sayý1 = 2931 Sayý2 = 1802 Toplam = 4733 Çýkarma = 1129 Çarpma = 5281662 Bölme = 1
+DEBUG   2021-08-01 15:54:45,010 [main] Appender3  - 4733
+DEBUG   2021-08-01 15:54:45,410 [main] Appender3  - 1129
+DEBUG   2021-08-01 15:54:45,825 [main] Appender3  - 5281662
+DEBUG   2021-08-01 15:54:46,227 [main] Appender3  - 2
+DEBUG   2021-08-01 15:54:46,227 [main] Appender3  - Olmasý gereken Sayý1 = 9068 Sayý2 = 8879 Toplam = 17947 Çýkarma = 189 Çarpma = 80514772 Bölme = 1
+DEBUG   2021-08-01 15:54:46,632 [main] Appender3  - 17947
+DEBUG   2021-08-01 15:54:47,042 [main] Appender3  - 189
+DEBUG   2021-08-01 15:54:47,444 [main] Appender3  - 80514772
+DEBUG   2021-08-01 15:54:47,847 [main] Appender3  - 1
+DEBUG   2021-08-01 15:54:47,847 [main] Appender3  - Olmasý gereken Sayý1 = 2820 Sayý2 = 7064 Toplam = 9884 Çýkarma = -4244 Çarpma = 19920480 Bölme = 0
+DEBUG   2021-08-01 15:54:48,244 [main] Appender3  - 9884
+DEBUG   2021-08-01 15:54:48,644 [main] Appender3  - -4244
+DEBUG   2021-08-01 15:54:49,048 [main] Appender3  - 19920480
+DEBUG   2021-08-01 15:54:49,447 [main] Appender3  - 3
+DEBUG   2021-08-01 15:54:49,447 [main] Appender3  - Olmasý gereken Sayý1 = 8229 Sayý2 = 2506 Toplam = 10735 Çýkarma = 5723 Çarpma = 20621874 Bölme = 3
+DEBUG   2021-08-01 15:54:49,855 [main] Appender3  - 10735
+DEBUG   2021-08-01 15:54:50,250 [main] Appender3  - 5723
+DEBUG   2021-08-01 15:54:50,658 [main] Appender3  - 20621874
+DEBUG   2021-08-01 15:54:51,080 [main] Appender3  - 3
+DEBUG   2021-08-01 15:54:51,081 [main] Appender3  - Olmasý gereken Sayý1 = 7839 Sayý2 = 8946 Toplam = 16785 Çýkarma = -1107 Çarpma = 70127694 Bölme = 0
+DEBUG   2021-08-01 15:54:51,483 [main] Appender3  - 16785
+DEBUG   2021-08-01 15:54:51,882 [main] Appender3  - -1107
+DEBUG   2021-08-01 15:54:52,282 [main] Appender3  - 70127694
+DEBUG   2021-08-01 15:54:52,680 [main] Appender3  - 1
+DEBUG   2021-08-01 15:54:52,681 [main] Appender3  - Olmasý gereken Sayý1 = 9628 Sayý2 = 9742 Toplam = 19370 Çýkarma = -114 Çarpma = 93795976 Bölme = 0
+DEBUG   2021-08-01 15:54:53,087 [main] Appender3  - 19370
+DEBUG   2021-08-01 15:54:53,482 [main] Appender3  - -114
+DEBUG   2021-08-01 15:54:53,883 [main] Appender3  - 93795976
+DEBUG   2021-08-01 15:54:54,292 [main] Appender3  - 1
+DEBUG   2021-08-01 15:54:54,292 [main] Appender3  - Olmasý gereken Sayý1 = 8981 Sayý2 = 7509 Toplam = 16490 Çýkarma = 1472 Çarpma = 67438329 Bölme = 1
+DEBUG   2021-08-01 15:54:54,689 [main] Appender3  - 16490
+DEBUG   2021-08-01 15:54:55,071 [main] Appender3  - 1472
+DEBUG   2021-08-01 15:54:55,462 [main] Appender3  - 67438329
+DEBUG   2021-08-01 15:54:55,872 [main] Appender3  - 1
+DEBUG   2021-08-01 15:54:55,880 [main] Appender3  - Olmasý gereken Sayý1 = 2492 Sayý2 = 9506 Toplam = 11998 Çýkarma = -7014 Çarpma = 23688952 Bölme = 0
+DEBUG   2021-08-01 15:54:56,277 [main] Appender3  - 11998
+DEBUG   2021-08-01 15:54:56,663 [main] Appender3  - -7014
+DEBUG   2021-08-01 15:54:57,107 [main] Appender3  - 23688952
+DEBUG   2021-08-01 15:54:57,507 [main] Appender3  - 4
+DEBUG   2021-08-01 15:54:57,507 [main] Appender3  - Olmasý gereken Sayý1 = 5275 Sayý2 = 6422 Toplam = 11697 Çýkarma = -1147 Çarpma = 33876050 Bölme = 0
+DEBUG   2021-08-01 15:54:57,921 [main] Appender3  - 11697
+DEBUG   2021-08-01 15:54:58,338 [main] Appender3  - -1147
+DEBUG   2021-08-01 15:54:58,736 [main] Appender3  - 33876050
+DEBUG   2021-08-01 15:54:59,135 [main] Appender3  - 1
+DEBUG   2021-08-01 15:54:59,135 [main] Appender3  - Olmasý gereken Sayý1 = 1797 Sayý2 = 1333 Toplam = 3130 Çýkarma = 464 Çarpma = 2395401 Bölme = 1
+DEBUG   2021-08-01 15:54:59,546 [main] Appender3  - 3130
+DEBUG   2021-08-01 15:54:59,948 [main] Appender3  - 464
+DEBUG   2021-08-01 15:55:00,343 [main] Appender3  - 2395401
+DEBUG   2021-08-01 15:55:00,746 [main] Appender3  - 1
+DEBUG   2021-08-01 15:55:00,746 [main] Appender3  - Olmasý gereken Sayý1 = 182 Sayý2 = 6527 Toplam = 6709 Çýkarma = -6345 Çarpma = 1187914 Bölme = 0
+DEBUG   2021-08-01 15:55:01,151 [main] Appender3  - 6709
+DEBUG   2021-08-01 15:55:01,552 [main] Appender3  - -6345
+DEBUG   2021-08-01 15:55:01,947 [main] Appender3  - 1187914
+DEBUG   2021-08-01 15:55:02,334 [main] Appender3  - 36
+DEBUG   2021-08-01 15:55:02,334 [main] Appender3  - Olmasý gereken Sayý1 = 6242 Sayý2 = 8319 Toplam = 14561 Çýkarma = -2077 Çarpma = 51927198 Bölme = 0
+DEBUG   2021-08-01 15:55:02,731 [main] Appender3  - 14561
+DEBUG   2021-08-01 15:55:03,113 [main] Appender3  - -2077
+DEBUG   2021-08-01 15:55:03,495 [main] Appender3  - 51927198
+DEBUG   2021-08-01 15:55:03,883 [main] Appender3  - 1
+DEBUG   2021-08-01 15:55:03,884 [main] Appender3  - Olmasý gereken Sayý1 = 5779 Sayý2 = 2299 Toplam = 8078 Çýkarma = 3480 Çarpma = 13285921 Bölme = 2
+DEBUG   2021-08-01 15:55:04,270 [main] Appender3  - 8078
+DEBUG   2021-08-01 15:55:04,666 [main] Appender3  - 3480
+DEBUG   2021-08-01 15:55:05,078 [main] Appender3  - 13285921
+DEBUG   2021-08-01 15:55:05,467 [main] Appender3  - 3
+DEBUG   2021-08-01 15:55:05,467 [main] Appender3  - Olmasý gereken Sayý1 = 2531 Sayý2 = 4805 Toplam = 7336 Çýkarma = -2274 Çarpma = 12161455 Bölme = 0
+DEBUG   2021-08-01 15:55:05,878 [main] Appender3  - 7336
+DEBUG   2021-08-01 15:55:06,282 [main] Appender3  - -2274
+DEBUG   2021-08-01 15:55:06,678 [main] Appender3  - 12161455
+DEBUG   2021-08-01 15:55:07,076 [main] Appender3  - 2
+DEBUG   2021-08-01 15:55:07,076 [main] Appender3  - Olmasý gereken Sayý1 = 1347 Sayý2 = 4441 Toplam = 5788 Çýkarma = -3094 Çarpma = 5982027 Bölme = 0
+DEBUG   2021-08-01 15:55:07,472 [main] Appender3  - 5788
+DEBUG   2021-08-01 15:55:07,873 [main] Appender3  - -3094
+DEBUG   2021-08-01 15:55:08,267 [main] Appender3  - 5982027
+DEBUG   2021-08-01 15:55:08,665 [main] Appender3  - 3
+DEBUG   2021-08-01 15:55:08,666 [main] Appender3  - Olmasý gereken Sayý1 = 1945 Sayý2 = 9032 Toplam = 10977 Çýkarma = -7087 Çarpma = 17567240 Bölme = 0
+DEBUG   2021-08-01 15:55:09,085 [main] Appender3  - 10977
+DEBUG   2021-08-01 15:55:09,480 [main] Appender3  - -7087
+DEBUG   2021-08-01 15:55:09,883 [main] Appender3  - 17567240
+DEBUG   2021-08-01 15:55:10,272 [main] Appender3  - 5
+DEBUG   2021-08-01 15:55:10,273 [main] Appender3  - Olmasý gereken Sayý1 = 3619 Sayý2 = 8128 Toplam = 11747 Çýkarma = -4509 Çarpma = 29415232 Bölme = 0
+DEBUG   2021-08-01 15:55:10,662 [main] Appender3  - 11747
+DEBUG   2021-08-01 15:55:11,077 [main] Appender3  - -4509
+DEBUG   2021-08-01 15:55:11,476 [main] Appender3  - 29415232
+DEBUG   2021-08-01 15:55:11,881 [main] Appender3  - 2
+DEBUG   2021-08-01 15:55:11,881 [main] Appender3  - Olmasý gereken Sayý1 = 1248 Sayý2 = 2715 Toplam = 3963 Çýkarma = -1467 Çarpma = 3388320 Bölme = 0
+DEBUG   2021-08-01 15:55:12,302 [main] Appender3  - 3963
+DEBUG   2021-08-01 15:55:12,698 [main] Appender3  - -1467
+DEBUG   2021-08-01 15:55:13,094 [main] Appender3  - 3388320
+DEBUG   2021-08-01 15:55:13,483 [main] Appender3  - 2
+DEBUG   2021-08-01 15:55:13,483 [main] Appender3  - Olmasý gereken Sayý1 = 2602 Sayý2 = 2720 Toplam = 5322 Çýkarma = -118 Çarpma = 7077440 Bölme = 0
+DEBUG   2021-08-01 15:55:13,896 [main] Appender3  - 5322
+DEBUG   2021-08-01 15:55:14,341 [main] Appender3  - -118
+DEBUG   2021-08-01 15:55:14,746 [main] Appender3  - 7077440
+DEBUG   2021-08-01 15:55:15,144 [main] Appender3  - 1
+DEBUG   2021-08-01 15:55:15,144 [main] Appender3  - Olmasý gereken Sayý1 = 198 Sayý2 = 5871 Toplam = 6069 Çýkarma = -5673 Çarpma = 1162458 Bölme = 0
+DEBUG   2021-08-01 15:55:15,542 [main] Appender3  - 6069
+DEBUG   2021-08-01 15:55:15,938 [main] Appender3  - -5673
+DEBUG   2021-08-01 15:55:16,343 [main] Appender3  - 1162458
+DEBUG   2021-08-01 15:55:16,750 [main] Appender3  - 30
+DEBUG   2021-08-01 15:55:16,750 [main] Appender3  - Olmasý gereken Sayý1 = 6620 Sayý2 = 7728 Toplam = 14348 Çýkarma = -1108 Çarpma = 51159360 Bölme = 0
+DEBUG   2021-08-01 15:55:17,150 [main] Appender3  - 14348
+DEBUG   2021-08-01 15:55:17,548 [main] Appender3  - -1108
+DEBUG   2021-08-01 15:55:17,945 [main] Appender3  - 51159360
+DEBUG   2021-08-01 15:55:18,355 [main] Appender3  - 1
+DEBUG   2021-08-01 15:55:18,355 [main] Appender3  - Olmasý gereken Sayý1 = 1338 Sayý2 = 5454 Toplam = 6792 Çýkarma = -4116 Çarpma = 7297452 Bölme = 0
+DEBUG   2021-08-01 15:55:18,766 [main] Appender3  - 6792
+DEBUG   2021-08-01 15:55:19,162 [main] Appender3  - -4116
+DEBUG   2021-08-01 15:55:19,574 [main] Appender3  - 7297452
+DEBUG   2021-08-01 15:55:19,985 [main] Appender3  - 4
+DEBUG   2021-08-01 15:55:19,985 [main] Appender3  - Olmasý gereken Sayý1 = 332 Sayý2 = 426 Toplam = 758 Çýkarma = -94 Çarpma = 141432 Bölme = 0
+DEBUG   2021-08-01 15:55:20,388 [main] Appender3  - 758
+DEBUG   2021-08-01 15:55:20,796 [main] Appender3  - -94
+DEBUG   2021-08-01 15:55:21,202 [main] Appender3  - 141432
+DEBUG   2021-08-01 15:55:21,610 [main] Appender3  - 1
+DEBUG   2021-08-01 15:55:21,610 [main] Appender3  - Olmasý gereken Sayý1 = 4016 Sayý2 = 8144 Toplam = 12160 Çýkarma = -4128 Çarpma = 32706304 Bölme = 0
+DEBUG   2021-08-01 15:55:22,008 [main] Appender3  - 12160
+DEBUG   2021-08-01 15:55:22,431 [main] Appender3  - -4128
+DEBUG   2021-08-01 15:55:22,828 [main] Appender3  - 32706304
+DEBUG   2021-08-01 15:55:23,235 [main] Appender3  - 2
+DEBUG   2021-08-01 15:55:23,236 [main] Appender3  - Olmasý gereken Sayý1 = 734 Sayý2 = 5791 Toplam = 6525 Çýkarma = -5057 Çarpma = 4250594 Bölme = 0
+DEBUG   2021-08-01 15:55:23,634 [main] Appender3  - 6525
+DEBUG   2021-08-01 15:55:24,029 [main] Appender3  - -5057
+DEBUG   2021-08-01 15:55:24,438 [main] Appender3  - 4250594
+DEBUG   2021-08-01 15:55:24,857 [main] Appender3  - 8
+DEBUG   2021-08-01 15:55:24,857 [main] Appender3  - Olmasý gereken Sayý1 = 4945 Sayý2 = 8332 Toplam = 13277 Çýkarma = -3387 Çarpma = 41201740 Bölme = 0
+DEBUG   2021-08-01 15:55:25,245 [main] Appender3  - 13277
+DEBUG   2021-08-01 15:55:25,652 [main] Appender3  - -3387
+DEBUG   2021-08-01 15:55:26,062 [main] Appender3  - 41201740
+DEBUG   2021-08-01 15:55:26,456 [main] Appender3  - 2
+DEBUG   2021-08-01 15:55:26,456 [main] Appender3  - Olmasý gereken Sayý1 = 6986 Sayý2 = 696 Toplam = 7682 Çýkarma = 6290 Çarpma = 4862256 Bölme = 10
+DEBUG   2021-08-01 15:55:26,854 [main] Appender3  - 7682
+DEBUG   2021-08-01 15:55:27,251 [main] Appender3  - 6290
+DEBUG   2021-08-01 15:55:27,651 [main] Appender3  - 4862256
+DEBUG   2021-08-01 15:55:28,058 [main] Appender3  - 10
+DEBUG   2021-08-01 15:55:28,058 [main] Appender3  - Olmasý gereken Sayý1 = 6766 Sayý2 = 655 Toplam = 7421 Çýkarma = 6111 Çarpma = 4431730 Bölme = 10
+DEBUG   2021-08-01 15:55:28,456 [main] Appender3  - 7421
+DEBUG   2021-08-01 15:55:28,858 [main] Appender3  - 6111
+DEBUG   2021-08-01 15:55:29,260 [main] Appender3  - 4431730
+DEBUG   2021-08-01 15:55:29,653 [main] Appender3  - 10
+DEBUG   2021-08-01 15:55:29,653 [main] Appender3  - Olmasý gereken Sayý1 = 7340 Sayý2 = 8666 Toplam = 16006 Çýkarma = -1326 Çarpma = 63608440 Bölme = 0
+DEBUG   2021-08-01 15:55:30,064 [main] Appender3  - 16006
+DEBUG   2021-08-01 15:55:30,482 [main] Appender3  - -1326
+DEBUG   2021-08-01 15:55:30,892 [main] Appender3  - 63608440
+DEBUG   2021-08-01 15:55:31,299 [main] Appender3  - 1
+DEBUG   2021-08-01 15:55:31,299 [main] Appender3  - Olmasý gereken Sayý1 = 6805 Sayý2 = 2546 Toplam = 9351 Çýkarma = 4259 Çarpma = 17325530 Bölme = 2
+DEBUG   2021-08-01 15:55:31,700 [main] Appender3  - 9351
+DEBUG   2021-08-01 15:55:32,083 [main] Appender3  - 4259
+DEBUG   2021-08-01 15:55:32,487 [main] Appender3  - 17325530
+DEBUG   2021-08-01 15:55:32,884 [main] Appender3  - 3
+DEBUG   2021-08-01 15:55:32,884 [main] Appender3  - Olmasý gereken Sayý1 = 1544 Sayý2 = 3749 Toplam = 5293 Çýkarma = -2205 Çarpma = 5788456 Bölme = 0
+DEBUG   2021-08-01 15:55:33,306 [main] Appender3  - 5293
+DEBUG   2021-08-01 15:55:33,702 [main] Appender3  - -2205
+DEBUG   2021-08-01 15:55:34,108 [main] Appender3  - 5788456
+DEBUG   2021-08-01 15:55:34,497 [main] Appender3  - 2
+DEBUG   2021-08-01 15:55:34,497 [main] Appender3  - Olmasý gereken Sayý1 = 4909 Sayý2 = 8635 Toplam = 13544 Çýkarma = -3726 Çarpma = 42389215 Bölme = 0
+DEBUG   2021-08-01 15:55:34,896 [main] Appender3  - 13544
+DEBUG   2021-08-01 15:55:35,301 [main] Appender3  - -3726
+DEBUG   2021-08-01 15:55:35,695 [main] Appender3  - 42389215
+DEBUG   2021-08-01 15:55:36,137 [main] Appender3  - 2
+DEBUG   2021-08-01 15:55:36,137 [main] Appender3  - Olmasý gereken Sayý1 = 1242 Sayý2 = 4697 Toplam = 5939 Çýkarma = -3455 Çarpma = 5833674 Bölme = 0
+DEBUG   2021-08-01 15:55:36,548 [main] Appender3  - 5939
+DEBUG   2021-08-01 15:55:36,952 [main] Appender3  - -3455
+DEBUG   2021-08-01 15:55:37,388 [main] Appender3  - 5833674
+DEBUG   2021-08-01 15:55:37,843 [main] Appender3  - 4
+DEBUG   2021-08-01 15:55:37,844 [main] Appender3  - Olmasý gereken Sayý1 = 236 Sayý2 = 6323 Toplam = 6559 Çýkarma = -6087 Çarpma = 1492228 Bölme = 0
+DEBUG   2021-08-01 15:55:38,269 [main] Appender3  - 6559
+DEBUG   2021-08-01 15:55:38,755 [main] Appender3  - -6087
+DEBUG   2021-08-01 15:55:39,155 [main] Appender3  - 1492228
+DEBUG   2021-08-01 15:55:39,570 [main] Appender3  - 27
+DEBUG   2021-08-01 15:55:39,570 [main] Appender3  - Olmasý gereken Sayý1 = 9084 Sayý2 = 3366 Toplam = 12450 Çýkarma = 5718 Çarpma = 30576744 Bölme = 2
+DEBUG   2021-08-01 15:55:40,039 [main] Appender3  - 12450
+DEBUG   2021-08-01 15:55:40,450 [main] Appender3  - 5718
+DEBUG   2021-08-01 15:55:40,882 [main] Appender3  - 30576744
+DEBUG   2021-08-01 15:55:41,304 [main] Appender3  - 3
+DEBUG   2021-08-01 15:55:41,304 [main] Appender3  - Olmasý gereken Sayý1 = 9864 Sayý2 = 7231 Toplam = 17095 Çýkarma = 2633 Çarpma = 71326584 Bölme = 1
+DEBUG   2021-08-01 15:55:41,699 [main] Appender3  - 17095
+DEBUG   2021-08-01 15:55:42,102 [main] Appender3  - 2633
+DEBUG   2021-08-01 15:55:42,529 [main] Appender3  - 71326584
+DEBUG   2021-08-01 15:55:43,028 [main] Appender3  - 1
+DEBUG   2021-08-01 15:55:43,028 [main] Appender3  - Olmasý gereken Sayý1 = 2210 Sayý2 = 7663 Toplam = 9873 Çýkarma = -5453 Çarpma = 16935230 Bölme = 0
+DEBUG   2021-08-01 15:55:43,431 [main] Appender3  - 9873
+DEBUG   2021-08-01 15:55:43,880 [main] Appender3  - -5453
+DEBUG   2021-08-01 15:55:44,298 [main] Appender3  - 16935230
+DEBUG   2021-08-01 15:55:44,790 [main] Appender3  - 3
+DEBUG   2021-08-01 15:55:44,790 [main] Appender3  - Olmasý gereken Sayý1 = 1833 Sayý2 = 1021 Toplam = 2854 Çýkarma = 812 Çarpma = 1871493 Bölme = 1
+DEBUG   2021-08-01 15:55:45,174 [main] Appender3  - 2854
+DEBUG   2021-08-01 15:55:45,590 [main] Appender3  - 812
+DEBUG   2021-08-01 15:55:45,979 [main] Appender3  - 1871493
+DEBUG   2021-08-01 15:55:46,394 [main] Appender3  - 2
+DEBUG   2021-08-01 15:55:46,394 [main] Appender3  - Olmasý gereken Sayý1 = 5055 Sayý2 = 3945 Toplam = 9000 Çýkarma = 1110 Çarpma = 19941975 Bölme = 1
+DEBUG   2021-08-01 15:55:46,780 [main] Appender3  - 9000
+DEBUG   2021-08-01 15:55:47,174 [main] Appender3  - 1110
+DEBUG   2021-08-01 15:55:47,589 [main] Appender3  - 19941975
+DEBUG   2021-08-01 15:55:47,981 [main] Appender3  - 1
+DEBUG   2021-08-01 15:55:47,981 [main] Appender3  - Olmasý gereken Sayý1 = 3037 Sayý2 = 637 Toplam = 3674 Çýkarma = 2400 Çarpma = 1934569 Bölme = 4
+DEBUG   2021-08-01 15:55:48,383 [main] Appender3  - 3674
+DEBUG   2021-08-01 15:55:48,786 [main] Appender3  - 2400
+DEBUG   2021-08-01 15:55:49,169 [main] Appender3  - 1934569
+DEBUG   2021-08-01 15:55:49,611 [main] Appender3  - 5
+DEBUG   2021-08-01 15:55:49,611 [main] Appender3  - Olmasý gereken Sayý1 = 746 Sayý2 = 3990 Toplam = 4736 Çýkarma = -3244 Çarpma = 2976540 Bölme = 0
+DEBUG   2021-08-01 15:55:50,009 [main] Appender3  - 4736
+DEBUG   2021-08-01 15:55:50,394 [main] Appender3  - -3244
+DEBUG   2021-08-01 15:55:50,798 [main] Appender3  - 2976540
+DEBUG   2021-08-01 15:55:51,196 [main] Appender3  - 5
+DEBUG   2021-08-01 15:55:51,196 [main] Appender3  - Olmasý gereken Sayý1 = 9158 Sayý2 = 5529 Toplam = 14687 Çýkarma = 3629 Çarpma = 50634582 Bölme = 1
+DEBUG   2021-08-01 15:55:51,600 [main] Appender3  - 14687
+DEBUG   2021-08-01 15:55:52,002 [main] Appender3  - 3629
+DEBUG   2021-08-01 15:55:52,402 [main] Appender3  - 50634582
+DEBUG   2021-08-01 15:55:52,797 [main] Appender3  - 2
+DEBUG   2021-08-01 15:55:52,797 [main] Appender3  - Olmasý gereken Sayý1 = 5066 Sayý2 = 8424 Toplam = 13490 Çýkarma = -3358 Çarpma = 42675984 Bölme = 0
+DEBUG   2021-08-01 15:55:53,201 [main] Appender3  - 13490
+DEBUG   2021-08-01 15:55:53,599 [main] Appender3  - -3358
+DEBUG   2021-08-01 15:55:53,996 [main] Appender3  - 42675984
+DEBUG   2021-08-01 15:55:54,610 [main] Appender3  - 2
+DEBUG   2021-08-01 15:55:54,610 [main] Appender3  - Olmasý gereken Sayý1 = 5598 Sayý2 = 8979 Toplam = 14577 Çýkarma = -3381 Çarpma = 50264442 Bölme = 0
+DEBUG   2021-08-01 15:55:55,002 [main] Appender3  - 14577
+DEBUG   2021-08-01 15:55:55,412 [main] Appender3  - -3381
+DEBUG   2021-08-01 15:55:55,802 [main] Appender3  - 50264442
+DEBUG   2021-08-01 15:55:56,197 [main] Appender3  - 2
+DEBUG   2021-08-01 15:55:56,197 [main] Appender3  - Olmasý gereken Sayý1 = 8558 Sayý2 = 9988 Toplam = 18546 Çýkarma = -1430 Çarpma = 85477304 Bölme = 0
+DEBUG   2021-08-01 15:55:56,590 [main] Appender3  - 18546
+DEBUG   2021-08-01 15:55:57,001 [main] Appender3  - -1430
+DEBUG   2021-08-01 15:55:57,393 [main] Appender3  - 85477304
+DEBUG   2021-08-01 15:55:57,797 [main] Appender3  - 1
+DEBUG   2021-08-01 15:55:57,797 [main] Appender3  - Olmasý gereken Sayý1 = 3018 Sayý2 = 5626 Toplam = 8644 Çýkarma = -2608 Çarpma = 16979268 Bölme = 0
+DEBUG   2021-08-01 15:55:58,191 [main] Appender3  - 8644
+DEBUG   2021-08-01 15:55:58,587 [main] Appender3  - -2608
+DEBUG   2021-08-01 15:55:58,988 [main] Appender3  - 16979268
+DEBUG   2021-08-01 15:55:59,401 [main] Appender3  - 2
+DEBUG   2021-08-01 15:55:59,402 [main] Appender3  - Olmasý gereken Sayý1 = 5898 Sayý2 = 5701 Toplam = 11599 Çýkarma = 197 Çarpma = 33624498 Bölme = 1
+DEBUG   2021-08-01 15:55:59,804 [main] Appender3  - 11599
+DEBUG   2021-08-01 15:56:00,203 [main] Appender3  - 197
+DEBUG   2021-08-01 15:56:00,910 [main] Appender3  - 33624498
+DEBUG   2021-08-01 15:56:01,329 [main] Appender3  - 1
+DEBUG   2021-08-01 15:56:01,330 [main] Appender3  - Olmasý gereken Sayý1 = 4093 Sayý2 = 6295 Toplam = 10388 Çýkarma = -2202 Çarpma = 25765435 Bölme = 0
+DEBUG   2021-08-01 15:56:01,741 [main] Appender3  - 10388
+DEBUG   2021-08-01 15:56:02,138 [main] Appender3  - -2202
+DEBUG   2021-08-01 15:56:02,534 [main] Appender3  - 25765435
+DEBUG   2021-08-01 15:56:02,935 [main] Appender3  - 2
+DEBUG   2021-08-01 15:56:02,935 [main] Appender3  - Olmasý gereken Sayý1 = 2204 Sayý2 = 5194 Toplam = 7398 Çýkarma = -2990 Çarpma = 11447576 Bölme = 0
+DEBUG   2021-08-01 15:56:03,338 [main] Appender3  - 7398
+DEBUG   2021-08-01 15:56:03,733 [main] Appender3  - -2990
+DEBUG   2021-08-01 15:56:04,139 [main] Appender3  - 11447576
+DEBUG   2021-08-01 15:56:04,537 [main] Appender3  - 2
+DEBUG   2021-08-01 15:56:04,537 [main] Appender3  - Olmasý gereken Sayý1 = 6195 Sayý2 = 1130 Toplam = 7325 Çýkarma = 5065 Çarpma = 7000350 Bölme = 5
+DEBUG   2021-08-01 15:56:04,936 [main] Appender3  - 7325
+DEBUG   2021-08-01 15:56:05,328 [main] Appender3  - 5065
+DEBUG   2021-08-01 15:56:05,725 [main] Appender3  - 7000350
+DEBUG   2021-08-01 15:56:06,111 [main] Appender3  - 5
+DEBUG   2021-08-01 15:56:06,111 [main] Appender3  - Olmasý gereken Sayý1 = 13 Sayý2 = 2941 Toplam = 2954 Çýkarma = -2928 Çarpma = 38233 Bölme = 0
+DEBUG   2021-08-01 15:56:06,511 [main] Appender3  - 2954
+DEBUG   2021-08-01 15:56:06,905 [main] Appender3  - -2928
+DEBUG   2021-08-01 15:56:07,312 [main] Appender3  - 38233
+DEBUG   2021-08-01 15:56:07,714 [main] Appender3  - 226
+DEBUG   2021-08-01 15:56:07,714 [main] Appender3  - Olmasý gereken Sayý1 = 1246 Sayý2 = 7085 Toplam = 8331 Çýkarma = -5839 Çarpma = 8827910 Bölme = 0
+DEBUG   2021-08-01 15:56:08,113 [main] Appender3  - 8331
+DEBUG   2021-08-01 15:56:08,512 [main] Appender3  - -5839
+DEBUG   2021-08-01 15:56:08,921 [main] Appender3  - 8827910
+DEBUG   2021-08-01 15:56:09,316 [main] Appender3  - 6
+DEBUG   2021-08-01 15:56:09,317 [main] Appender3  - Olmasý gereken Sayý1 = 7347 Sayý2 = 49 Toplam = 7396 Çýkarma = 7298 Çarpma = 360003 Bölme = 149
+DEBUG   2021-08-01 15:56:09,719 [main] Appender3  - 7396
+DEBUG   2021-08-01 15:56:10,146 [main] Appender3  - 7298
+DEBUG   2021-08-01 15:56:10,548 [main] Appender3  - 360003
+DEBUG   2021-08-01 15:56:10,959 [main] Appender3  - 150
+DEBUG   2021-08-01 15:56:10,959 [main] Appender3  - Olmasý gereken Sayý1 = 45 Sayý2 = 7505 Toplam = 7550 Çýkarma = -7460 Çarpma = 337725 Bölme = 0
+DEBUG   2021-08-01 15:56:11,387 [main] Appender3  - 7550
+DEBUG   2021-08-01 15:56:11,795 [main] Appender3  - -7460
+DEBUG   2021-08-01 15:56:12,193 [main] Appender3  - 337725
+DEBUG   2021-08-01 15:56:12,622 [main] Appender3  - 167
+DEBUG   2021-08-01 15:56:12,623 [main] Appender3  - Olmasý gereken Sayý1 = 6706 Sayý2 = 4935 Toplam = 11641 Çýkarma = 1771 Çarpma = 33094110 Bölme = 1
+DEBUG   2021-08-01 15:56:13,020 [main] Appender3  - 11641
+DEBUG   2021-08-01 15:56:13,418 [main] Appender3  - 1771
+DEBUG   2021-08-01 15:56:13,937 [main] Appender3  - 33094110
+DEBUG   2021-08-01 15:56:14,356 [main] Appender3  - 1
+DEBUG   2021-08-01 15:56:14,356 [main] Appender3  - Olmasý gereken Sayý1 = 4744 Sayý2 = 9805 Toplam = 14549 Çýkarma = -5061 Çarpma = 46514920 Bölme = 0
+DEBUG   2021-08-01 15:56:14,764 [main] Appender3  - 14549
+DEBUG   2021-08-01 15:56:15,159 [main] Appender3  - -5061
+DEBUG   2021-08-01 15:56:15,553 [main] Appender3  - 46514920
+DEBUG   2021-08-01 15:56:15,956 [main] Appender3  - 2
+DEBUG   2021-08-01 15:56:15,956 [main] Appender3  - Olmasý gereken Sayý1 = 3730 Sayý2 = 3373 Toplam = 7103 Çýkarma = 357 Çarpma = 12581290 Bölme = 1
+DEBUG   2021-08-01 15:56:16,383 [main] Appender3  - 7103
+DEBUG   2021-08-01 15:56:16,771 [main] Appender3  - 357
+DEBUG   2021-08-01 15:56:17,163 [main] Appender3  - 12581290
+DEBUG   2021-08-01 15:56:17,575 [main] Appender3  - 1
+DEBUG   2021-08-01 15:56:17,575 [main] Appender3  - Olmasý gereken Sayý1 = 7241 Sayý2 = 6336 Toplam = 13577 Çýkarma = 905 Çarpma = 45878976 Bölme = 1
+DEBUG   2021-08-01 15:56:17,970 [main] Appender3  - 13577
+DEBUG   2021-08-01 15:56:18,374 [main] Appender3  - 905
+DEBUG   2021-08-01 15:56:18,783 [main] Appender3  - 45878976
+DEBUG   2021-08-01 15:56:19,183 [main] Appender3  - 1
+DEBUG   2021-08-01 15:56:19,183 [main] Appender3  - Olmasý gereken Sayý1 = 2508 Sayý2 = 7060 Toplam = 9568 Çýkarma = -4552 Çarpma = 17706480 Bölme = 0
+DEBUG   2021-08-01 15:56:19,583 [main] Appender3  - 9568
+DEBUG   2021-08-01 15:56:19,987 [main] Appender3  - -4552
+DEBUG   2021-08-01 15:56:20,374 [main] Appender3  - 17706480
+DEBUG   2021-08-01 15:56:20,774 [main] Appender3  - 3
+DEBUG   2021-08-01 15:56:20,774 [main] Appender3  - Olmasý gereken Sayý1 = 6932 Sayý2 = 6287 Toplam = 13219 Çýkarma = 645 Çarpma = 43581484 Bölme = 1
+DEBUG   2021-08-01 15:56:21,180 [main] Appender3  - 13219
+DEBUG   2021-08-01 15:56:21,581 [main] Appender3  - 645
+DEBUG   2021-08-01 15:56:21,979 [main] Appender3  - 43581484
+DEBUG   2021-08-01 15:56:22,387 [main] Appender3  - 1
+DEBUG   2021-08-01 15:56:22,387 [main] Appender3  - Olmasý gereken Sayý1 = 4943 Sayý2 = 2908 Toplam = 7851 Çýkarma = 2035 Çarpma = 14374244 Bölme = 1
+DEBUG   2021-08-01 15:56:22,781 [main] Appender3  - 7851
+DEBUG   2021-08-01 15:56:23,215 [main] Appender3  - 2035
+DEBUG   2021-08-01 15:56:23,624 [main] Appender3  - 14374244
+DEBUG   2021-08-01 15:56:24,020 [main] Appender3  - 2
+INFO    2021-08-01 15:56:24,021 [main] Appender3  - THE TEST RAN SUCCESSFULLY
+INFO    2021-08-01 17:09:56,148 [main] Appender3  - TEST RUN
+DEBUG   2021-08-01 17:09:56,150 [main] Appender3  - Olmasý gereken Sayý1 = 7015 Sayý2 = 749 Toplam = 7764 Çýkarma = 6266 Çarpma = 5254235 Bölme = 9
+DEBUG   2021-08-01 17:09:57,080 [main] Appender3  - 7764
+DEBUG   2021-08-01 17:09:57,598 [main] Appender3  - 6266
+DEBUG   2021-08-01 17:09:58,116 [main] Appender3  - 5254235
+DEBUG   2021-08-01 17:09:58,665 [main] Appender3  - 9
+DEBUG   2021-08-01 17:09:58,665 [main] Appender3  - Olmasý gereken Sayý1 = 5779 Sayý2 = 6289 Toplam = 12068 Çýkarma = -510 Çarpma = 36344131 Bölme = 0
+DEBUG   2021-08-01 17:09:59,219 [main] Appender3  - 12068
+DEBUG   2021-08-01 17:09:59,711 [main] Appender3  - -510
+DEBUG   2021-08-01 17:10:00,117 [main] Appender3  - 36344131
+DEBUG   2021-08-01 17:10:00,586 [main] Appender3  - 1
+DEBUG   2021-08-01 17:10:00,586 [main] Appender3  - Olmasý gereken Sayý1 = 1913 Sayý2 = 650 Toplam = 2563 Çýkarma = 1263 Çarpma = 1243450 Bölme = 2
+DEBUG   2021-08-01 17:10:01,134 [main] Appender3  - 2563
+DEBUG   2021-08-01 17:10:01,557 [main] Appender3  - 1263
+DEBUG   2021-08-01 17:10:02,068 [main] Appender3  - 1243450
+DEBUG   2021-08-01 17:10:02,589 [main] Appender3  - 3
+DEBUG   2021-08-01 17:10:02,594 [main] Appender3  - Olmasý gereken Sayý1 = 6488 Sayý2 = 5219 Toplam = 11707 Çýkarma = 1269 Çarpma = 33860872 Bölme = 1
+DEBUG   2021-08-01 17:10:03,088 [main] Appender3  - 11707
+DEBUG   2021-08-01 17:10:03,588 [main] Appender3  - 1269
+DEBUG   2021-08-01 17:10:04,156 [main] Appender3  - 33860872
+DEBUG   2021-08-01 17:10:04,672 [main] Appender3  - 1
+DEBUG   2021-08-01 17:10:04,672 [main] Appender3  - Olmasý gereken Sayý1 = 4691 Sayý2 = 6576 Toplam = 11267 Çýkarma = -1885 Çarpma = 30848016 Bölme = 0
+DEBUG   2021-08-01 17:10:05,244 [main] Appender3  - 11267
+DEBUG   2021-08-01 17:10:05,751 [main] Appender3  - -1885
+DEBUG   2021-08-01 17:10:06,262 [main] Appender3  - 30848016
+DEBUG   2021-08-01 17:10:06,863 [main] Appender3  - 1
+DEBUG   2021-08-01 17:10:06,863 [main] Appender3  - Olmasý gereken Sayý1 = 514 Sayý2 = 4952 Toplam = 5466 Çýkarma = -4438 Çarpma = 2545328 Bölme = 0
+DEBUG   2021-08-01 17:10:07,304 [main] Appender3  - 5466
+DEBUG   2021-08-01 17:10:07,836 [main] Appender3  - -4438
+DEBUG   2021-08-01 17:10:08,333 [main] Appender3  - 2545328
+DEBUG   2021-08-01 17:10:08,837 [main] Appender3  - 10
+DEBUG   2021-08-01 17:10:08,838 [main] Appender3  - Olmasý gereken Sayý1 = 9022 Sayý2 = 6702 Toplam = 15724 Çýkarma = 2320 Çarpma = 60465444 Bölme = 1
+DEBUG   2021-08-01 17:10:09,305 [main] Appender3  - 15724
+DEBUG   2021-08-01 17:10:09,884 [main] Appender3  - 2320
+DEBUG   2021-08-01 17:10:10,329 [main] Appender3  - 60465444
+DEBUG   2021-08-01 17:10:10,857 [main] Appender3  - 1
+DEBUG   2021-08-01 17:10:10,857 [main] Appender3  - Olmasý gereken Sayý1 = 6952 Sayý2 = 5760 Toplam = 12712 Çýkarma = 1192 Çarpma = 40043520 Bölme = 1
+DEBUG   2021-08-01 17:10:11,424 [main] Appender3  - 12712
+DEBUG   2021-08-01 17:10:11,957 [main] Appender3  - 1192
+DEBUG   2021-08-01 17:10:12,492 [main] Appender3  - 40043520
+DEBUG   2021-08-01 17:10:12,990 [main] Appender3  - 1
+DEBUG   2021-08-01 17:10:12,990 [main] Appender3  - Olmasý gereken Sayý1 = 6035 Sayý2 = 8798 Toplam = 14833 Çýkarma = -2763 Çarpma = 53095930 Bölme = 0
+DEBUG   2021-08-01 17:10:13,555 [main] Appender3  - 14833
+DEBUG   2021-08-01 17:10:14,141 [main] Appender3  - -2763
+DEBUG   2021-08-01 17:10:14,670 [main] Appender3  - 53095930
+DEBUG   2021-08-01 17:10:15,227 [main] Appender3  - 1
+DEBUG   2021-08-01 17:10:15,227 [main] Appender3  - Olmasý gereken Sayý1 = 8673 Sayý2 = 3848 Toplam = 12521 Çýkarma = 4825 Çarpma = 33373704 Bölme = 2
+DEBUG   2021-08-01 17:10:15,788 [main] Appender3  - 12521
+DEBUG   2021-08-01 17:10:16,312 [main] Appender3  - 4825
+DEBUG   2021-08-01 17:10:16,835 [main] Appender3  - 33373704
+DEBUG   2021-08-01 17:10:17,373 [main] Appender3  - 2
+DEBUG   2021-08-01 17:10:17,373 [main] Appender3  - Olmasý gereken Sayý1 = 6097 Sayý2 = 6279 Toplam = 12376 Çýkarma = -182 Çarpma = 38283063 Bölme = 0
+DEBUG   2021-08-01 17:10:17,915 [main] Appender3  - 12376
+DEBUG   2021-08-01 17:10:18,453 [main] Appender3  - -182
+DEBUG   2021-08-01 17:10:19,020 [main] Appender3  - 38283063
+DEBUG   2021-08-01 17:10:19,539 [main] Appender3  - 1
+DEBUG   2021-08-01 17:10:19,539 [main] Appender3  - Olmasý gereken Sayý1 = 9747 Sayý2 = 4029 Toplam = 13776 Çýkarma = 5718 Çarpma = 39270663 Bölme = 2
+DEBUG   2021-08-01 17:10:20,083 [main] Appender3  - 13776
+DEBUG   2021-08-01 17:10:20,615 [main] Appender3  - 5718
+DEBUG   2021-08-01 17:10:21,143 [main] Appender3  - 39270663
+DEBUG   2021-08-01 17:10:21,662 [main] Appender3  - 2
+DEBUG   2021-08-01 17:10:21,662 [main] Appender3  - Olmasý gereken Sayý1 = 8030 Sayý2 = 4640 Toplam = 12670 Çýkarma = 3390 Çarpma = 37259200 Bölme = 1
+DEBUG   2021-08-01 17:10:22,165 [main] Appender3  - 12670
+DEBUG   2021-08-01 17:10:22,681 [main] Appender3  - 3390
+DEBUG   2021-08-01 17:10:23,187 [main] Appender3  - 37259200
+DEBUG   2021-08-01 17:10:23,697 [main] Appender3  - 2
+DEBUG   2021-08-01 17:10:23,697 [main] Appender3  - Olmasý gereken Sayý1 = 6776 Sayý2 = 107 Toplam = 6883 Çýkarma = 6669 Çarpma = 725032 Bölme = 63
+DEBUG   2021-08-01 17:10:24,203 [main] Appender3  - 6883
+DEBUG   2021-08-01 17:10:24,735 [main] Appender3  - 6669
+DEBUG   2021-08-01 17:10:25,236 [main] Appender3  - 725032
+DEBUG   2021-08-01 17:10:25,779 [main] Appender3  - 63
+DEBUG   2021-08-01 17:10:25,779 [main] Appender3  - Olmasý gereken Sayý1 = 7813 Sayý2 = 7650 Toplam = 15463 Çýkarma = 163 Çarpma = 59769450 Bölme = 1
+DEBUG   2021-08-01 17:10:26,307 [main] Appender3  - 15463
+DEBUG   2021-08-01 17:10:26,787 [main] Appender3  - 163
+DEBUG   2021-08-01 17:10:27,288 [main] Appender3  - 59769450
+DEBUG   2021-08-01 17:10:27,797 [main] Appender3  - 1
+DEBUG   2021-08-01 17:10:27,797 [main] Appender3  - Olmasý gereken Sayý1 = 2450 Sayý2 = 6768 Toplam = 9218 Çýkarma = -4318 Çarpma = 16581600 Bölme = 0
+DEBUG   2021-08-01 17:10:28,308 [main] Appender3  - 9218
+DEBUG   2021-08-01 17:10:28,807 [main] Appender3  - -4318
+DEBUG   2021-08-01 17:10:29,262 [main] Appender3  - 16581600
+DEBUG   2021-08-01 17:10:29,711 [main] Appender3  - 3
+DEBUG   2021-08-01 17:10:29,711 [main] Appender3  - Olmasý gereken Sayý1 = 6702 Sayý2 = 4761 Toplam = 11463 Çýkarma = 1941 Çarpma = 31908222 Bölme = 1
+DEBUG   2021-08-01 17:10:30,117 [main] Appender3  - 11463
+DEBUG   2021-08-01 17:10:30,538 [main] Appender3  - 1941
+DEBUG   2021-08-01 17:10:30,964 [main] Appender3  - 31908222
+DEBUG   2021-08-01 17:10:31,363 [main] Appender3  - 1
+DEBUG   2021-08-01 17:10:31,363 [main] Appender3  - Olmasý gereken Sayý1 = 1301 Sayý2 = 7266 Toplam = 8567 Çýkarma = -5965 Çarpma = 9453066 Bölme = 0
+DEBUG   2021-08-01 17:10:31,775 [main] Appender3  - 8567
+DEBUG   2021-08-01 17:10:32,192 [main] Appender3  - -5965
+DEBUG   2021-08-01 17:10:32,658 [main] Appender3  - 9453066
+DEBUG   2021-08-01 17:10:33,130 [main] Appender3  - 6
+DEBUG   2021-08-01 17:10:33,130 [main] Appender3  - Olmasý gereken Sayý1 = 3211 Sayý2 = 7767 Toplam = 10978 Çýkarma = -4556 Çarpma = 24939837 Bölme = 0
+DEBUG   2021-08-01 17:10:33,606 [main] Appender3  - 10978
+DEBUG   2021-08-01 17:10:34,103 [main] Appender3  - -4556
+DEBUG   2021-08-01 17:10:34,599 [main] Appender3  - 24939837
+DEBUG   2021-08-01 17:10:35,086 [main] Appender3  - 2
+DEBUG   2021-08-01 17:10:35,086 [main] Appender3  - Olmasý gereken Sayý1 = 4386 Sayý2 = 9641 Toplam = 14027 Çýkarma = -5255 Çarpma = 42285426 Bölme = 0
+DEBUG   2021-08-01 17:10:35,568 [main] Appender3  - 14027
+DEBUG   2021-08-01 17:10:36,048 [main] Appender3  - -5255
+DEBUG   2021-08-01 17:10:36,509 [main] Appender3  - 42285426
+DEBUG   2021-08-01 17:10:36,995 [main] Appender3  - 2
+DEBUG   2021-08-01 17:10:36,996 [main] Appender3  - Olmasý gereken Sayý1 = 9326 Sayý2 = 3013 Toplam = 12339 Çýkarma = 6313 Çarpma = 28099238 Bölme = 3
+DEBUG   2021-08-01 17:10:37,482 [main] Appender3  - 12339
+DEBUG   2021-08-01 17:10:37,976 [main] Appender3  - 6313
+DEBUG   2021-08-01 17:10:38,488 [main] Appender3  - 28099238
+DEBUG   2021-08-01 17:10:38,964 [main] Appender3  - 3
+DEBUG   2021-08-01 17:10:38,964 [main] Appender3  - Olmasý gereken Sayý1 = 3701 Sayý2 = 9258 Toplam = 12959 Çýkarma = -5557 Çarpma = 34263858 Bölme = 0
+DEBUG   2021-08-01 17:10:39,419 [main] Appender3  - 12959
+DEBUG   2021-08-01 17:10:40,597 [main] Appender3  - -5557
+DEBUG   2021-08-01 17:10:41,019 [main] Appender3  - 34263858
+DEBUG   2021-08-01 17:10:41,480 [main] Appender3  - 3
+DEBUG   2021-08-01 17:10:41,480 [main] Appender3  - Olmasý gereken Sayý1 = 6072 Sayý2 = 598 Toplam = 6670 Çýkarma = 5474 Çarpma = 3631056 Bölme = 10
+DEBUG   2021-08-01 17:10:41,957 [main] Appender3  - 6670
+DEBUG   2021-08-01 17:10:42,460 [main] Appender3  - 5474
+DEBUG   2021-08-01 17:10:42,971 [main] Appender3  - 3631056
+DEBUG   2021-08-01 17:10:43,458 [main] Appender3  - 10
+DEBUG   2021-08-01 17:10:43,459 [main] Appender3  - Olmasý gereken Sayý1 = 7204 Sayý2 = 7537 Toplam = 14741 Çýkarma = -333 Çarpma = 54296548 Bölme = 0
+DEBUG   2021-08-01 17:10:43,961 [main] Appender3  - 14741
+DEBUG   2021-08-01 17:10:44,474 [main] Appender3  - -333
+DEBUG   2021-08-01 17:10:45,002 [main] Appender3  - 54296548
+DEBUG   2021-08-01 17:10:45,515 [main] Appender3  - 1
+DEBUG   2021-08-01 17:10:45,515 [main] Appender3  - Olmasý gereken Sayý1 = 8364 Sayý2 = 3114 Toplam = 11478 Çýkarma = 5250 Çarpma = 26045496 Bölme = 2
+DEBUG   2021-08-01 17:10:46,031 [main] Appender3  - 11478
+DEBUG   2021-08-01 17:10:46,562 [main] Appender3  - 5250
+DEBUG   2021-08-01 17:10:47,054 [main] Appender3  - 26045496
+DEBUG   2021-08-01 17:10:47,539 [main] Appender3  - 3
+DEBUG   2021-08-01 17:10:47,539 [main] Appender3  - Olmasý gereken Sayý1 = 2360 Sayý2 = 91 Toplam = 2451 Çýkarma = 2269 Çarpma = 214760 Bölme = 25
+DEBUG   2021-08-01 17:10:48,043 [main] Appender3  - 2451
+DEBUG   2021-08-01 17:10:48,550 [main] Appender3  - 2269
+DEBUG   2021-08-01 17:10:49,085 [main] Appender3  - 214760
+DEBUG   2021-08-01 17:10:49,558 [main] Appender3  - 26
+DEBUG   2021-08-01 17:10:49,558 [main] Appender3  - Olmasý gereken Sayý1 = 9650 Sayý2 = 1084 Toplam = 10734 Çýkarma = 8566 Çarpma = 10460600 Bölme = 8
+DEBUG   2021-08-01 17:10:50,127 [main] Appender3  - 10734
+DEBUG   2021-08-01 17:10:50,661 [main] Appender3  - 8566
+DEBUG   2021-08-01 17:10:51,171 [main] Appender3  - 10460600
+DEBUG   2021-08-01 17:10:51,692 [main] Appender3  - 9
+DEBUG   2021-08-01 17:10:51,692 [main] Appender3  - Olmasý gereken Sayý1 = 6344 Sayý2 = 8429 Toplam = 14773 Çýkarma = -2085 Çarpma = 53473576 Bölme = 0
+DEBUG   2021-08-01 17:10:52,183 [main] Appender3  - 14773
+DEBUG   2021-08-01 17:10:52,704 [main] Appender3  - -2085
+DEBUG   2021-08-01 17:10:53,165 [main] Appender3  - 53473576
+DEBUG   2021-08-01 17:10:53,574 [main] Appender3  - 1
+DEBUG   2021-08-01 17:10:53,574 [main] Appender3  - Olmasý gereken Sayý1 = 7000 Sayý2 = 8632 Toplam = 15632 Çýkarma = -1632 Çarpma = 60424000 Bölme = 0
+DEBUG   2021-08-01 17:10:54,051 [main] Appender3  - 15632
+DEBUG   2021-08-01 17:10:54,469 [main] Appender3  - -1632
+DEBUG   2021-08-01 17:10:54,874 [main] Appender3  - 60424000
+DEBUG   2021-08-01 17:10:55,412 [main] Appender3  - 1
+DEBUG   2021-08-01 17:10:55,412 [main] Appender3  - Olmasý gereken Sayý1 = 4544 Sayý2 = 5397 Toplam = 9941 Çýkarma = -853 Çarpma = 24523968 Bölme = 0
+DEBUG   2021-08-01 17:10:55,897 [main] Appender3  - 9941
+DEBUG   2021-08-01 17:10:56,302 [main] Appender3  - -853
+DEBUG   2021-08-01 17:10:56,717 [main] Appender3  - 24523968
+DEBUG   2021-08-01 17:10:57,192 [main] Appender3  - 1
+DEBUG   2021-08-01 17:10:57,192 [main] Appender3  - Olmasý gereken Sayý1 = 3603 Sayý2 = 6541 Toplam = 10144 Çýkarma = -2938 Çarpma = 23567223 Bölme = 0
+DEBUG   2021-08-01 17:10:57,589 [main] Appender3  - 10144
+DEBUG   2021-08-01 17:10:58,038 [main] Appender3  - -2938
+DEBUG   2021-08-01 17:10:58,478 [main] Appender3  - 23567223
+DEBUG   2021-08-01 17:10:58,996 [main] Appender3  - 2
+DEBUG   2021-08-01 17:10:58,997 [main] Appender3  - Olmasý gereken Sayý1 = 1633 Sayý2 = 3547 Toplam = 5180 Çýkarma = -1914 Çarpma = 5792251 Bölme = 0
+DEBUG   2021-08-01 17:10:59,419 [main] Appender3  - 5180
+DEBUG   2021-08-01 17:10:59,912 [main] Appender3  - -1914
+DEBUG   2021-08-01 17:11:00,397 [main] Appender3  - 5792251
+DEBUG   2021-08-01 17:11:00,901 [main] Appender3  - 2
+DEBUG   2021-08-01 17:11:00,901 [main] Appender3  - Olmasý gereken Sayý1 = 4867 Sayý2 = 8506 Toplam = 13373 Çýkarma = -3639 Çarpma = 41398702 Bölme = 0
+DEBUG   2021-08-01 17:11:01,407 [main] Appender3  - 13373
+DEBUG   2021-08-01 17:11:01,909 [main] Appender3  - -3639
+DEBUG   2021-08-01 17:11:02,421 [main] Appender3  - 41398702
+DEBUG   2021-08-01 17:11:02,924 [main] Appender3  - 2
+DEBUG   2021-08-01 17:11:02,925 [main] Appender3  - Olmasý gereken Sayý1 = 2929 Sayý2 = 3427 Toplam = 6356 Çýkarma = -498 Çarpma = 10037683 Bölme = 0
+DEBUG   2021-08-01 17:11:03,460 [main] Appender3  - 6356
+DEBUG   2021-08-01 17:11:03,973 [main] Appender3  - -498
+DEBUG   2021-08-01 17:11:04,437 [main] Appender3  - 10037683
+DEBUG   2021-08-01 17:11:04,909 [main] Appender3  - 1
+DEBUG   2021-08-01 17:11:04,909 [main] Appender3  - Olmasý gereken Sayý1 = 5844 Sayý2 = 1001 Toplam = 6845 Çýkarma = 4843 Çarpma = 5849844 Bölme = 5
+DEBUG   2021-08-01 17:11:05,377 [main] Appender3  - 6845
+DEBUG   2021-08-01 17:11:05,861 [main] Appender3  - 4843
+DEBUG   2021-08-01 17:11:06,371 [main] Appender3  - 5849844
+DEBUG   2021-08-01 17:11:06,871 [main] Appender3  - 6
+DEBUG   2021-08-01 17:11:06,871 [main] Appender3  - Olmasý gereken Sayý1 = 8179 Sayý2 = 3489 Toplam = 11668 Çýkarma = 4690 Çarpma = 28536531 Bölme = 2
+DEBUG   2021-08-01 17:11:07,358 [main] Appender3  - 11668
+DEBUG   2021-08-01 17:11:07,856 [main] Appender3  - 4690
+DEBUG   2021-08-01 17:11:08,373 [main] Appender3  - 28536531
+DEBUG   2021-08-01 17:11:08,855 [main] Appender3  - 2
+DEBUG   2021-08-01 17:11:08,855 [main] Appender3  - Olmasý gereken Sayý1 = 7793 Sayý2 = 4949 Toplam = 12742 Çýkarma = 2844 Çarpma = 38567557 Bölme = 1
+DEBUG   2021-08-01 17:11:09,293 [main] Appender3  - 12742
+DEBUG   2021-08-01 17:11:09,727 [main] Appender3  - 2844
+DEBUG   2021-08-01 17:11:10,169 [main] Appender3  - 38567557
+DEBUG   2021-08-01 17:11:10,574 [main] Appender3  - 2
+DEBUG   2021-08-01 17:11:10,575 [main] Appender3  - Olmasý gereken Sayý1 = 6818 Sayý2 = 8153 Toplam = 14971 Çýkarma = -1335 Çarpma = 55587154 Bölme = 0
+DEBUG   2021-08-01 17:11:11,006 [main] Appender3  - 14971
+DEBUG   2021-08-01 17:11:11,431 [main] Appender3  - -1335
+DEBUG   2021-08-01 17:11:11,876 [main] Appender3  - 55587154
+DEBUG   2021-08-01 17:11:12,334 [main] Appender3  - 1
+DEBUG   2021-08-01 17:11:12,334 [main] Appender3  - Olmasý gereken Sayý1 = 8019 Sayý2 = 2889 Toplam = 10908 Çýkarma = 5130 Çarpma = 23166891 Bölme = 2
+DEBUG   2021-08-01 17:11:12,824 [main] Appender3  - 10908
+DEBUG   2021-08-01 17:11:13,288 [main] Appender3  - 5130
+DEBUG   2021-08-01 17:11:13,710 [main] Appender3  - 23166891
+DEBUG   2021-08-01 17:11:14,154 [main] Appender3  - 3
+DEBUG   2021-08-01 17:11:14,154 [main] Appender3  - Olmasý gereken Sayý1 = 6888 Sayý2 = 7507 Toplam = 14395 Çýkarma = -619 Çarpma = 51708216 Bölme = 0
+DEBUG   2021-08-01 17:11:14,554 [main] Appender3  - 14395
+DEBUG   2021-08-01 17:11:15,007 [main] Appender3  - -619
+DEBUG   2021-08-01 17:11:15,440 [main] Appender3  - 51708216
+DEBUG   2021-08-01 17:11:15,886 [main] Appender3  - 1
+DEBUG   2021-08-01 17:11:15,887 [main] Appender3  - Olmasý gereken Sayý1 = 3527 Sayý2 = 7062 Toplam = 10589 Çýkarma = -3535 Çarpma = 24907674 Bölme = 0
+DEBUG   2021-08-01 17:11:16,346 [main] Appender3  - 10589
+DEBUG   2021-08-01 17:11:16,742 [main] Appender3  - -3535
+DEBUG   2021-08-01 17:11:17,178 [main] Appender3  - 24907674
+DEBUG   2021-08-01 17:11:17,586 [main] Appender3  - 2
+DEBUG   2021-08-01 17:11:17,586 [main] Appender3  - Olmasý gereken Sayý1 = 1723 Sayý2 = 3992 Toplam = 5715 Çýkarma = -2269 Çarpma = 6878216 Bölme = 0
+DEBUG   2021-08-01 17:11:17,996 [main] Appender3  - 5715
+DEBUG   2021-08-01 17:11:18,421 [main] Appender3  - -2269
+DEBUG   2021-08-01 17:11:18,846 [main] Appender3  - 6878216
+DEBUG   2021-08-01 17:11:19,306 [main] Appender3  - 2
+DEBUG   2021-08-01 17:11:19,307 [main] Appender3  - Olmasý gereken Sayý1 = 2205 Sayý2 = 3888 Toplam = 6093 Çýkarma = -1683 Çarpma = 8573040 Bölme = 0
+DEBUG   2021-08-01 17:11:19,735 [main] Appender3  - 6093
+DEBUG   2021-08-01 17:11:20,225 [main] Appender3  - -1683
+DEBUG   2021-08-01 17:11:20,655 [main] Appender3  - 8573040
+DEBUG   2021-08-01 17:11:21,071 [main] Appender3  - 2
+DEBUG   2021-08-01 17:11:21,071 [main] Appender3  - Olmasý gereken Sayý1 = 5094 Sayý2 = 1003 Toplam = 6097 Çýkarma = 4091 Çarpma = 5109282 Bölme = 5
+DEBUG   2021-08-01 17:11:21,493 [main] Appender3  - 6097
+DEBUG   2021-08-01 17:11:21,920 [main] Appender3  - 4091
+DEBUG   2021-08-01 17:11:22,384 [main] Appender3  - 5109282
+DEBUG   2021-08-01 17:11:22,879 [main] Appender3  - 5
+DEBUG   2021-08-01 17:11:22,879 [main] Appender3  - Olmasý gereken Sayý1 = 3724 Sayý2 = 8262 Toplam = 11986 Çýkarma = -4538 Çarpma = 30767688 Bölme = 0
+DEBUG   2021-08-01 17:11:23,334 [main] Appender3  - 11986
+DEBUG   2021-08-01 17:11:23,820 [main] Appender3  - -4538
+DEBUG   2021-08-01 17:11:24,308 [main] Appender3  - 30767688
+DEBUG   2021-08-01 17:11:24,776 [main] Appender3  - 2
+DEBUG   2021-08-01 17:11:24,777 [main] Appender3  - Olmasý gereken Sayý1 = 4389 Sayý2 = 5191 Toplam = 9580 Çýkarma = -802 Çarpma = 22783299 Bölme = 0
+DEBUG   2021-08-01 17:11:25,268 [main] Appender3  - 9580
+DEBUG   2021-08-01 17:11:25,760 [main] Appender3  - -802
+DEBUG   2021-08-01 17:11:26,270 [main] Appender3  - 22783299
+DEBUG   2021-08-01 17:11:26,789 [main] Appender3  - 1
+DEBUG   2021-08-01 17:11:26,789 [main] Appender3  - Olmasý gereken Sayý1 = 1284 Sayý2 = 7964 Toplam = 9248 Çýkarma = -6680 Çarpma = 10225776 Bölme = 0
+DEBUG   2021-08-01 17:11:27,280 [main] Appender3  - 9248
+DEBUG   2021-08-01 17:11:27,801 [main] Appender3  - -6680
+DEBUG   2021-08-01 17:11:28,313 [main] Appender3  - 10225776
+DEBUG   2021-08-01 17:11:28,815 [main] Appender3  - 6
+DEBUG   2021-08-01 17:11:28,815 [main] Appender3  - Olmasý gereken Sayý1 = 233 Sayý2 = 240 Toplam = 473 Çýkarma = -7 Çarpma = 55920 Bölme = 0
+DEBUG   2021-08-01 17:11:29,305 [main] Appender3  - 473
+DEBUG   2021-08-01 17:11:29,808 [main] Appender3  - -7
+DEBUG   2021-08-01 17:11:30,317 [main] Appender3  - 55920
+DEBUG   2021-08-01 17:11:30,853 [main] Appender3  - 1
+DEBUG   2021-08-01 17:11:30,853 [main] Appender3  - Olmasý gereken Sayý1 = 5947 Sayý2 = 4630 Toplam = 10577 Çýkarma = 1317 Çarpma = 27534610 Bölme = 1
+DEBUG   2021-08-01 17:11:31,382 [main] Appender3  - 10577
+DEBUG   2021-08-01 17:11:31,879 [main] Appender3  - 1317
+DEBUG   2021-08-01 17:11:32,403 [main] Appender3  - 27534610
+DEBUG   2021-08-01 17:11:32,942 [main] Appender3  - 1
+DEBUG   2021-08-01 17:11:32,942 [main] Appender3  - Olmasý gereken Sayý1 = 5148 Sayý2 = 8232 Toplam = 13380 Çýkarma = -3084 Çarpma = 42378336 Bölme = 0
+DEBUG   2021-08-01 17:11:33,501 [main] Appender3  - 13380
+DEBUG   2021-08-01 17:11:34,058 [main] Appender3  - -3084
+DEBUG   2021-08-01 17:11:34,615 [main] Appender3  - 42378336
+DEBUG   2021-08-01 17:11:35,171 [main] Appender3  - 2
+DEBUG   2021-08-01 17:11:35,171 [main] Appender3  - Olmasý gereken Sayý1 = 1049 Sayý2 = 6404 Toplam = 7453 Çýkarma = -5355 Çarpma = 6717796 Bölme = 0
+DEBUG   2021-08-01 17:11:35,720 [main] Appender3  - 7453
+DEBUG   2021-08-01 17:11:36,285 [main] Appender3  - -5355
+DEBUG   2021-08-01 17:11:36,869 [main] Appender3  - 6717796
+DEBUG   2021-08-01 17:11:37,475 [main] Appender3  - 6
+DEBUG   2021-08-01 17:11:37,476 [main] Appender3  - Olmasý gereken Sayý1 = 8047 Sayý2 = 6354 Toplam = 14401 Çýkarma = 1693 Çarpma = 51130638 Bölme = 1
+DEBUG   2021-08-01 17:11:38,030 [main] Appender3  - 14401
+DEBUG   2021-08-01 17:11:38,614 [main] Appender3  - 1693
+DEBUG   2021-08-01 17:11:39,209 [main] Appender3  - 51130638
+DEBUG   2021-08-01 17:11:39,813 [main] Appender3  - 1
+DEBUG   2021-08-01 17:11:39,813 [main] Appender3  - Olmasý gereken Sayý1 = 5151 Sayý2 = 5413 Toplam = 10564 Çýkarma = -262 Çarpma = 27882363 Bölme = 0
+DEBUG   2021-08-01 17:11:40,388 [main] Appender3  - 10564
+DEBUG   2021-08-01 17:11:40,937 [main] Appender3  - -262
+DEBUG   2021-08-01 17:11:41,493 [main] Appender3  - 27882363
+DEBUG   2021-08-01 17:11:42,053 [main] Appender3  - 1
+DEBUG   2021-08-01 17:11:42,053 [main] Appender3  - Olmasý gereken Sayý1 = 9919 Sayý2 = 9163 Toplam = 19082 Çýkarma = 756 Çarpma = 90887797 Bölme = 1
+DEBUG   2021-08-01 17:11:42,625 [main] Appender3  - 19082
+DEBUG   2021-08-01 17:11:43,224 [main] Appender3  - 756
+DEBUG   2021-08-01 17:11:43,793 [main] Appender3  - 90887797
+DEBUG   2021-08-01 17:11:44,359 [main] Appender3  - 1
+DEBUG   2021-08-01 17:11:44,359 [main] Appender3  - Olmasý gereken Sayý1 = 3554 Sayý2 = 4377 Toplam = 7931 Çýkarma = -823 Çarpma = 15555858 Bölme = 0
+DEBUG   2021-08-01 17:11:44,957 [main] Appender3  - 7931
+DEBUG   2021-08-01 17:11:45,567 [main] Appender3  - -823
+DEBUG   2021-08-01 17:11:46,163 [main] Appender3  - 15555858
+DEBUG   2021-08-01 17:11:46,756 [main] Appender3  - 1
+DEBUG   2021-08-01 17:11:46,756 [main] Appender3  - Olmasý gereken Sayý1 = 3063 Sayý2 = 8825 Toplam = 11888 Çýkarma = -5762 Çarpma = 27030975 Bölme = 0
+DEBUG   2021-08-01 17:11:47,357 [main] Appender3  - 11888
+DEBUG   2021-08-01 17:11:47,953 [main] Appender3  - -5762
+DEBUG   2021-08-01 17:11:48,538 [main] Appender3  - 27030975
+DEBUG   2021-08-01 17:11:49,142 [main] Appender3  - 3
+DEBUG   2021-08-01 17:11:49,142 [main] Appender3  - Olmasý gereken Sayý1 = 7174 Sayý2 = 199 Toplam = 7373 Çýkarma = 6975 Çarpma = 1427626 Bölme = 36
+DEBUG   2021-08-01 17:11:49,727 [main] Appender3  - 7373
+DEBUG   2021-08-01 17:11:50,325 [main] Appender3  - 6975
+DEBUG   2021-08-01 17:11:50,921 [main] Appender3  - 1427626
+DEBUG   2021-08-01 17:11:51,524 [main] Appender3  - 36
+DEBUG   2021-08-01 17:11:51,524 [main] Appender3  - Olmasý gereken Sayý1 = 2814 Sayý2 = 8403 Toplam = 11217 Çýkarma = -5589 Çarpma = 23646042 Bölme = 0
+DEBUG   2021-08-01 17:11:52,109 [main] Appender3  - 11217
+DEBUG   2021-08-01 17:11:52,635 [main] Appender3  - -5589
+DEBUG   2021-08-01 17:11:53,167 [main] Appender3  - 23646042
+DEBUG   2021-08-01 17:11:53,714 [main] Appender3  - 3
+DEBUG   2021-08-01 17:11:53,714 [main] Appender3  - Olmasý gereken Sayý1 = 6885 Sayý2 = 2999 Toplam = 9884 Çýkarma = 3886 Çarpma = 20648115 Bölme = 2
+DEBUG   2021-08-01 17:11:54,260 [main] Appender3  - 9884
+DEBUG   2021-08-01 17:11:54,826 [main] Appender3  - 3886
+DEBUG   2021-08-01 17:11:55,375 [main] Appender3  - 20648115
+DEBUG   2021-08-01 17:11:55,880 [main] Appender3  - 2
+DEBUG   2021-08-01 17:11:55,880 [main] Appender3  - Olmasý gereken Sayý1 = 9889 Sayý2 = 7307 Toplam = 17196 Çýkarma = 2582 Çarpma = 72258923 Bölme = 1
+DEBUG   2021-08-01 17:11:56,404 [main] Appender3  - 17196
+DEBUG   2021-08-01 17:11:56,943 [main] Appender3  - 2582
+DEBUG   2021-08-01 17:11:57,492 [main] Appender3  - 72258923
+DEBUG   2021-08-01 17:11:58,046 [main] Appender3  - 1
+DEBUG   2021-08-01 17:11:58,046 [main] Appender3  - Olmasý gereken Sayý1 = 2255 Sayý2 = 1709 Toplam = 3964 Çýkarma = 546 Çarpma = 3853795 Bölme = 1
+DEBUG   2021-08-01 17:11:58,610 [main] Appender3  - 3964
+DEBUG   2021-08-01 17:11:59,179 [main] Appender3  - 546
+DEBUG   2021-08-01 17:11:59,761 [main] Appender3  - 3853795
+DEBUG   2021-08-01 17:12:00,263 [main] Appender3  - 1
+DEBUG   2021-08-01 17:12:00,263 [main] Appender3  - Olmasý gereken Sayý1 = 4011 Sayý2 = 8164 Toplam = 12175 Çýkarma = -4153 Çarpma = 32745804 Bölme = 0
+DEBUG   2021-08-01 17:12:00,775 [main] Appender3  - 12175
+DEBUG   2021-08-01 17:12:01,312 [main] Appender3  - -4153
+DEBUG   2021-08-01 17:12:01,732 [main] Appender3  - 32745804
+DEBUG   2021-08-01 17:12:02,225 [main] Appender3  - 2
+DEBUG   2021-08-01 17:12:02,225 [main] Appender3  - Olmasý gereken Sayý1 = 3243 Sayý2 = 8914 Toplam = 12157 Çýkarma = -5671 Çarpma = 28908102 Bölme = 0
+DEBUG   2021-08-01 17:12:02,727 [main] Appender3  - 12157
+DEBUG   2021-08-01 17:12:03,138 [main] Appender3  - -5671
+DEBUG   2021-08-01 17:12:03,690 [main] Appender3  - 28908102
+DEBUG   2021-08-01 17:12:04,186 [main] Appender3  - 3
+DEBUG   2021-08-01 17:12:04,186 [main] Appender3  - Olmasý gereken Sayý1 = 896 Sayý2 = 4036 Toplam = 4932 Çýkarma = -3140 Çarpma = 3616256 Bölme = 0
+DEBUG   2021-08-01 17:12:04,655 [main] Appender3  - 4932
+DEBUG   2021-08-01 17:12:05,052 [main] Appender3  - -3140
+DEBUG   2021-08-01 17:12:05,562 [main] Appender3  - 3616256
+DEBUG   2021-08-01 17:12:06,063 [main] Appender3  - 5
+DEBUG   2021-08-01 17:12:06,063 [main] Appender3  - Olmasý gereken Sayý1 = 6251 Sayý2 = 6945 Toplam = 13196 Çýkarma = -694 Çarpma = 43413195 Bölme = 0
+DEBUG   2021-08-01 17:12:06,488 [main] Appender3  - 13196
+DEBUG   2021-08-01 17:12:06,970 [main] Appender3  - -694
+DEBUG   2021-08-01 17:12:07,464 [main] Appender3  - 43413195
+DEBUG   2021-08-01 17:12:08,036 [main] Appender3  - 1
+DEBUG   2021-08-01 17:12:08,036 [main] Appender3  - Olmasý gereken Sayý1 = 3225 Sayý2 = 4999 Toplam = 8224 Çýkarma = -1774 Çarpma = 16121775 Bölme = 0
+DEBUG   2021-08-01 17:12:08,487 [main] Appender3  - 8224
+DEBUG   2021-08-01 17:12:08,983 [main] Appender3  - -1774
+DEBUG   2021-08-01 17:12:09,512 [main] Appender3  - 16121775
+DEBUG   2021-08-01 17:12:09,972 [main] Appender3  - 2
+DEBUG   2021-08-01 17:12:09,972 [main] Appender3  - Olmasý gereken Sayý1 = 7565 Sayý2 = 7147 Toplam = 14712 Çýkarma = 418 Çarpma = 54067055 Bölme = 1
+DEBUG   2021-08-01 17:12:10,524 [main] Appender3  - 14712
+DEBUG   2021-08-01 17:12:11,086 [main] Appender3  - 418
+DEBUG   2021-08-01 17:12:11,564 [main] Appender3  - 54067055
+DEBUG   2021-08-01 17:12:12,075 [main] Appender3  - 1
+DEBUG   2021-08-01 17:12:12,075 [main] Appender3  - Olmasý gereken Sayý1 = 8474 Sayý2 = 7229 Toplam = 15703 Çýkarma = 1245 Çarpma = 61258546 Bölme = 1
+DEBUG   2021-08-01 17:12:12,604 [main] Appender3  - 15703
+DEBUG   2021-08-01 17:12:13,119 [main] Appender3  - 1245
+DEBUG   2021-08-01 17:12:13,662 [main] Appender3  - 61258546
+DEBUG   2021-08-01 17:12:14,224 [main] Appender3  - 1
+DEBUG   2021-08-01 17:12:14,224 [main] Appender3  - Olmasý gereken Sayý1 = 398 Sayý2 = 1672 Toplam = 2070 Çýkarma = -1274 Çarpma = 665456 Bölme = 0
+DEBUG   2021-08-01 17:12:14,868 [main] Appender3  - 2070
+DEBUG   2021-08-01 17:12:15,421 [main] Appender3  - -1274
+DEBUG   2021-08-01 17:12:15,977 [main] Appender3  - 665456
+DEBUG   2021-08-01 17:12:16,498 [main] Appender3  - 4
+DEBUG   2021-08-01 17:12:16,498 [main] Appender3  - Olmasý gereken Sayý1 = 8272 Sayý2 = 1073 Toplam = 9345 Çýkarma = 7199 Çarpma = 8875856 Bölme = 7
+DEBUG   2021-08-01 17:12:17,007 [main] Appender3  - 9345
+DEBUG   2021-08-01 17:12:17,459 [main] Appender3  - 7199
+DEBUG   2021-08-01 17:12:17,932 [main] Appender3  - 8875856
+DEBUG   2021-08-01 17:12:18,407 [main] Appender3  - 8
+DEBUG   2021-08-01 17:12:18,407 [main] Appender3  - Olmasý gereken Sayý1 = 314 Sayý2 = 4779 Toplam = 5093 Çýkarma = -4465 Çarpma = 1500606 Bölme = 0
+DEBUG   2021-08-01 17:12:18,899 [main] Appender3  - 5093
+DEBUG   2021-08-01 17:12:19,411 [main] Appender3  - -4465
+DEBUG   2021-08-01 17:12:19,930 [main] Appender3  - 1500606
+DEBUG   2021-08-01 17:12:20,514 [main] Appender3  - 15
+DEBUG   2021-08-01 17:12:20,514 [main] Appender3  - Olmasý gereken Sayý1 = 2358 Sayý2 = 1527 Toplam = 3885 Çýkarma = 831 Çarpma = 3600666 Bölme = 1
+DEBUG   2021-08-01 17:12:20,945 [main] Appender3  - 3885
