@@ -500,10 +500,3 @@ DEBUG   2021-08-02 10:43:57,110 [main] Appender3  - 3552
 DEBUG   2021-08-02 10:43:57,637 [main] Appender3  - 187408
 DEBUG   2021-08-02 10:43:58,168 [main] Appender3  - 69
 INFO    2021-08-02 10:43:58,168 [main] Appender3  - THE TEST RAN SUCCESSFULLY
-DEBUG   2021-08-02 10:51:11,650 [http-nio-8080-exec-5] main.Index  - doGet Started
-
-INFO    2021-08-02 10:51:11,652 [http-nio-8080-exec-5] main.Index  - 200
-
-INFO    2021-08-02 10:51:11,652 [http-nio-8080-exec-5] main.Index  - java.util.Collections$3@6e0e2920
-INFO    2021-08-02 10:51:11,652 [http-nio-8080-exec-5] main.Index  - 0, 54, 54
-INFO    2021-08-02 10:51:13,629 [http-nio-8080-exec-5] main.Index  - doGet Ended
