@@ -3,7 +3,7 @@ package com.Helper;
 public class Timer {
 	private double passedSecond;
 	private long startTime;
-	private long endTime;
+	private long processTime;
 	
 	public void StartTimer()
 	{
@@ -11,9 +11,9 @@ public class Timer {
 	}
 	public void EndTimer()
 	{
-		endTime = System.nanoTime() - startTime;
-		passedSecond = (double) endTime / 1000000000.0;//Converting nano seconds to seconds
+		processTime = System.nanoTime() - startTime;
+		passedSecond = (double) processTime / 1000000000.0;//Converting nano seconds to seconds
 		System.out.print(passedSecond);
-		passedSecond = startTime = endTime = 0;
+		passedSecond = startTime = processTime = 0;
 	}
 }
