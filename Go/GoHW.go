@@ -16,7 +16,6 @@ func readFile() ([]string, bool) {
 	}
 	defer fileHandle.Close()
 	fileScanner := bufio.NewScanner(fileHandle)
-	fileScanner.Split(bufio.ScanLines)
 	for fileScanner.Scan() {
 		lines = append(lines, fileScanner.Text())
 	}
