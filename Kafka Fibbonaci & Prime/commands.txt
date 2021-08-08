@@ -1,0 +1,2 @@
+zkserver
+.\kafka-server-start.bat D:\Kafka\kafka_2.12-2.8.0\config\server.properties

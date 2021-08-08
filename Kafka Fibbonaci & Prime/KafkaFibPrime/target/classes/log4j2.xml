@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration status="DEBUG">
+
+	<Appenders>
+		<Console name="ConsoleAppender" target="SYSTEM_OUT">
+			<PatternLayout
+				pattern="%d{HH:mm:ss.SSS} [%t] %-5level %logger{36} - %msg%n" />
+		</Console>
+		<RollingFile name="RollingAppender"
+			fileName="logs/logs.log"
+			filePattern="logs/%d{yyyy-MM-dd}_%i.gz">
+			<PatternLayout
+				pattern="%d{HH:mm:ss.SSS} [%t] %-5level %logger{36} - %msg%n" />
+			<Policies>
+				<SizeBasedTriggeringPolicy size="100 KB" />
+			</Policies>
+			<DefaultRolloverStrategy max="10" />
+		</RollingFile>
+	</Appenders>
+
+	<Loggers>
+		<Root level="debug">
+			<!-- <AppenderRef ref="FileAppender"/> -->
+			<AppenderRef ref="ConsoleAppender" />
+			<AppenderRef ref="RollingAppender" />
+		</Root>
+	</Loggers>
+</Configuration>
