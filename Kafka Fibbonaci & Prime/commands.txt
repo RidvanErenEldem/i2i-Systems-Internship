@@ -1,2 +1,3 @@
-zkserver
-.\kafka-server-start.bat D:\Kafka\kafka_2.12-2.8.0\config\server.properties
+zookeeper-server-start.bat ..\..\config\zookeeper.properties
+kafka-server-start.bat ..\..\config\server.properties
+kafka-topics.bat --create --zookeeper localhost:2181 --replication-factor 1 --partitions 3 --topic kafkaFibPrime
