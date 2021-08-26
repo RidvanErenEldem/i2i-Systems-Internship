@@ -1,0 +1,1 @@
+awk '$0 ~/FileId/{split($0,a,","); printf"insert into AGGREGATION_STATUS values"; for(i=1; i<=5; i++){{split(a[i],b,"="); if(i==1){printf"(%s",b[2];}else printf", %s",b[2];}}printf");\n"} END{print"commit;"}' rlh.err.txt > sql.txt

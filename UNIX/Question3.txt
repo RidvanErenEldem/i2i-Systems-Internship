@@ -1,0 +1,4 @@
+mkdir eren
+cd eren
+mkdir bin
+PATH=@PATH:/eren/bin

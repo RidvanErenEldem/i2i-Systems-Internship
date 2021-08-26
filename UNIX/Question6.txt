@@ -1,0 +1,2 @@
+pgrep -x rih >/dev/null && echo "Rih calisiyor" || echo "Rih calismiyor"
+pgrep -x prih >/dev/null && echo "Prih calisiyor" || echo "Prih calismiyor"

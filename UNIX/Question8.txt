@@ -1,0 +1,2 @@
+dos2unix sample_udr.txt
+sed '/./{H;$!d};x;/905552171251/!d' sample_udr.txt > 905552171251.udr 

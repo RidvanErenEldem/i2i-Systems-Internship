@@ -1,0 +1,17 @@
+/* Archiver Script */
+#!/bin/bash
+backup_files=/BSCS_LOG
+dest=BSCS_WORK/BACKUP_LOGS
+
+day=$(date +%x)
+archive_file="bscs_log_$day.tar.gz"
+
+tar czf $dest/$archive_file $backup_files
+
+/* Daily Runner */
+
+$ crontab -e
+
+Choose [1-3]: 1
+
+29 0 * * * /bin/bash /path/backup_script.sh

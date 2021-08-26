@@ -1,0 +1,7 @@
+a-)
+	vi -c "%s/\"//g" cdr_dosyasi.txt > cdr_dosyasi.txt
+b-)
+	awk -F"," 'NR!=1{print $1,$2,$3,"90"$4}' OFS="," cdr_dosyasi.txt > output.txt
+c-)
+	dos2unix output.txt
+	awk -F"," 'NR!=1{print $1,$2,$3,"90"$4,$3-$2}' OFS="," output.txt > result.txt
