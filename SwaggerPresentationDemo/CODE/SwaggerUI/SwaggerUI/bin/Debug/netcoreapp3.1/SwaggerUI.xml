@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>SwaggerUI</name>
+    </assembly>
+    <members>
+        <member name="T:SwaggerUI.Connection">
+            <summary>
+            gfgf
+            </summary>
+        </member>
+        <member name="M:SwaggerUI.Connection.OpenConnection">
+            <summary>
+            fgfg
+            </summary>
+            <returns></returns>
+        </member>
+        <!-- Badly formed XML comment ignored for member "M:SwaggerUI.Controllers.EmployeeController.Get" -->
+        <member name="M:SwaggerUI.Controllers.EmployeeController.Get(System.Int32)">
+            <summary>
+            Select with id
+            </summary>
+            <param name="id">employee id</param>
+            <returns>string employee info</returns>
+        </member>
+        <member name="M:SwaggerUI.Controllers.EmployeeController.Post(System.String)">
+            <summary>
+            insert values into the database
+            </summary>
+            <param name="value">send employee name as parameter</param>
+        </member>
+        <member name="M:SwaggerUI.Controllers.EmployeeController.Delete(System.Int32)">
+            <summary>
+            deletes from database
+            </summary>
+            <param name="id">send employee id as parameter</param>
+        </member>
+    </members>
+</doc>
