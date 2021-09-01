@@ -1,0 +1,8 @@
+Hazelcast de 20000 tane rastgele sayılar put edeceğiz. Daha sonra onları get ile alacağız. 
+Oracle 20000 sayı insert edeceğiz. Daha sonra onları select ile alacağız. 
+ 
+Hazelcast put - oracle insert
+Hazelcast get - oracle select
+Zamanları karşılaştırılacak.
+ 
+Aynı şeyi 100000 için de yapılacak.
